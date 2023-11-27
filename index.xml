@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
-      <link>https://yjpeng11.github.io/publication/peng2023engineering/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/peng2023engineering/</guid>
+      <title>Broadening the scope: Multiple functional connectivity networks underlying threat and safety signaling</title>
+      <link>https://yjpeng11.github.io/publication/2023_cushing_connect_arxiv/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2023_cushing_connect_arxiv/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,6 +52,28 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
+      <link>https://yjpeng11.github.io/publication/2023_peng_engineering/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_engineering/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <title>Chinese Version of the Social Anxiety Questionnaire – Adults (CSAQ-A) ​​</title>
       <link>https://yjpeng11.github.io/resources/2023csaq-a/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
@@ -79,9 +101,9 @@ F5. Interactions with strangers
     
     <item>
       <title>Mapping between the Human Visual System and Two-stream DCNNs in Action Representation</title>
-      <link>https://yjpeng11.github.io/publication/peng2023cogsci/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_cogsci/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/peng2023cogsci/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_cogsci/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -98,9 +120,9 @@ F5. Interactions with strangers
     
     <item>
       <title>The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion</title>
-      <link>https://yjpeng11.github.io/publication/peng2023sadperspect/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_sadperspect/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/peng2023sadperspect/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_sadperspect/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -116,10 +138,24 @@ F5. Interactions with strangers
     </item>
     
     <item>
+      <title>MEWL: Few-shot multimodal word learning with referential uncertainty</title>
+      <link>https://yjpeng11.github.io/publication/2023_jiang_mewl/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2023_jiang_mewl/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Threat neurocircuitry predicts the development of anxiety and depression symptoms in a longitudinal study</title>
-      <link>https://yjpeng11.github.io/publication/peng2023bpcnni/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/peng2023bpcnni/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -151,6 +187,17 @@ F5. Interactions with strangers
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title></title>
+      <link>https://yjpeng11.github.io/_index-%E6%9D%A5%E8%87%AAlaptop-1qftfqv5%E7%9A%84%E5%86%B2%E7%AA%81%E5%89%AF%E6%9C%AC-2023-08-21_09.50.32/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/_index-%E6%9D%A5%E8%87%AAlaptop-1qftfqv5%E7%9A%84%E5%86%B2%E7%AA%81%E5%89%AF%E6%9C%AC-2023-08-21_09.50.32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <title>People</title>
       <link>https://yjpeng11.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -159,11 +206,25 @@ F5. Interactions with strangers
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>DACN lab received the 2023 National Natural Science Foundation of China grant</title>
+      <link>https://yjpeng11.github.io/news/22cnsf/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22cnsf/</guid>
+      <description>&lt;p&gt;DACN lab received the 2023 Young Scholars Research Grant, National Natural Science Foundation of China.&lt;/p&gt;
+&lt;p&gt;Title：&lt;em&gt;The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Source：&lt;em&gt;National Natural Science Foundation of China&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <title>Hanyu and Xin received GPA scholarship</title>
       <link>https://yjpeng11.github.io/news/22yuxipresent/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/news/22yuxipresent/</guid>
       <description>&lt;p&gt;Hanyu received the GPA scholarship, the first prize; Xin, the second prize. Congratulations, Hanyu and Xin.&lt;/p&gt;</description>
+<<<<<<< HEAD
     </item>
     
     <item>
@@ -250,10 +311,10 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     </item>
     
     <item>
-      <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
-      <link>https://yjpeng11.github.io/publication/peng2021bpcnni/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/peng2021bpcnni/</guid>
+      <title>A unified psychological space for human perception of physical and social events</title>
+      <link>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -269,6 +330,219 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     </item>
     
     <item>
+      <title>Infant perception of causal motion produced by humans and inanimate objects</title>
+      <link>https://yjpeng11.github.io/publication/2021_peng_infant/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2021_peng_infant/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
+      <link>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Code for Semantic Relations Predicts Neural Similarity during Analogical Reasoning</title>
+      <link>https://yjpeng11.github.io/publication/2020_chiang_joc/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2020_chiang_joc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring biological motion perception in two-stream convolutional neural networks</title>
+      <link>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+=======
+    </item>
+    
+    <item>
+      <title>Yujia supported by the Young Elite Scientists Sponsorship Program</title>
+      <link>https://yjpeng11.github.io/news/22yujiagrant/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22yujiagrant/</guid>
+      <description>&lt;p&gt;Yujia was supported by the Young Elite Scientists Sponsorship Program, China Association for Science and Technology.&lt;/p&gt;</description>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
+    </item>
+    
+    <item>
+      <title>Neurobiological substrates of mental disorders and potential treatments</title>
+      <link>https://yjpeng11.github.io/research/2021neurosubstrate/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/research/2021neurosubstrate/</guid>
+      <description>&lt;!-- ```python
+import libr
+print(&#39;hello&#39;)
+``` --&gt;
+&lt;!-- 
+## Overview
+
+1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+
+## Get Started
+
+- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&amp;src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Wowchemy&#39;s future ❤️](https://wowchemy.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+
+## Features
+
+- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --&gt;
+</description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>Causal actions enhance perception of continuous body movements​</title>
+      <link>https://yjpeng11.github.io/demos/2020causalillusion/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/demos/2020causalillusion/</guid>
+      <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal actions enhance perception of continuous body movements&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Cite：&lt;/p&gt;
+&lt;p&gt;Peng, Y., Ichien, N., &amp;amp; Lu, H. (2020). Causal actions enhance perception of continuous body movements. Cognition, 194, 104060.&lt;/p&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 1&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Video 1&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1. The two actors are interacting and the red actor demonstrates a sudden posture change in the middle of the action.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h1aWhrSw0P8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Video 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1. The two actors are interacting and the red actor demonstrates a gradual posture change in the middle of the action.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/YoqdV80gAT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Causal actions enhance perception of continuous body movements</title>
+      <link>https://yjpeng11.github.io/publication/2020_peng_cognition/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2020_peng_cognition/</guid>
+=======
+      <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
+      <link>https://yjpeng11.github.io/publication/peng2021bpcnni/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/peng2021bpcnni/</guid>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+=======
       <title>Infant perception of causal motion produced by humans and inanimate objects</title>
       <link>https://yjpeng11.github.io/publication/peng2021infant/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -302,11 +576,58 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     </item>
     
     <item>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <title>The hierarchical representation of human actions and convolutional neural networks</title>
       <link>https://yjpeng11.github.io/research/2019actioncnn/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/research/2019actioncnn/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The hierarchical representation of human actions and convolutional neural networks</title>
+      <link>https://yjpeng11.github.io/research/2019actioncnn/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/research/2019actioncnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Continuous Movements from Causal Actions</title>
+      <link>https://yjpeng11.github.io/publication/2019_peng_cogsci-causal/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2019_peng_cogsci-causal/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion or emotion: Infants discriminate emotional biological motion based on low-level visual information</title>
+      <link>https://yjpeng11.github.io/publication/2019_ogren_infant/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2019_ogren_infant/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -379,10 +700,249 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>Perceiving causal human actions</title>
+      <link>https://yjpeng11.github.io/research/2019causality/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/research/2019causality/</guid>
+      <description>&lt;!-- ```python
+from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+```
+
+![png](./index_1_0.png)
+
+```python
+print(&#34;Welcome to Academic!&#34;)
+```
+
+    Welcome to Academic!
+
+## Install Python and JupyterLab
+
+[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+
+Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+
+## Create or upload a Jupyter notebook
+
+Run the following commands in your Terminal, substituting `&lt;MY-WEBSITE-FOLDER&gt;` and `&lt;SHORT-POST-TITLE&gt;` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+
+```bash
+mkdir -p &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+cd &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+jupyter lab index.ipynb
+```
+
+The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+
+## Edit your post metadata
+
+The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+
+In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+
+```
+---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+```
+
+Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
+
+To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post&#39;s folder.
+
+For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+## Convert notebook to Markdown
+
+```bash
+jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+```
+
+## Example
+
+This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://yjpeng11.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain-computer interface for cyberpsychology</title>
+      <link>https://yjpeng11.github.io/publication/2019_peng_bci/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2019_peng_bci/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intact perception of coherent motion, dynamic rigid form, and biological motion in chronic schizophrenia</title>
+      <link>https://yjpeng11.github.io/publication/2018_keane_schizo/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2018_keane_schizo/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infant perception of sex differences in biological motion displays</title>
+      <link>https://yjpeng11.github.io/publication/2018_tsang_infant/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2018_tsang_infant/</guid>
+=======
       <title>Intact perception of coherent motion, dynamic rigid form, and biological motion in chronic schizophrenia</title>
       <link>https://yjpeng11.github.io/publication/keane2018schizo/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/publication/keane2018schizo/</guid>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -399,9 +959,15 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     
     <item>
       <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
+<<<<<<< HEAD
+      <link>https://yjpeng11.github.io/publication/2017_shu_aerial/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2017_shu_aerial/</guid>
+=======
       <link>https://yjpeng11.github.io/publication/shu2017aerial/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/publication/shu2017aerial/</guid>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -418,9 +984,15 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     
     <item>
       <title>Individual differences in high-level biological motion tasks correlate with autistic traits</title>
+<<<<<<< HEAD
+      <link>https://yjpeng11.github.io/publication/2016_van_autism/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2016_van_autism/</guid>
+=======
       <link>https://yjpeng11.github.io/publication/van2016autism/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/publication/van2016autism/</guid>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -441,14 +1013,69 @@ This post was created with Jupyter. The orginal files can be found at https://gi
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/demos/2017causalaction/</guid>
       <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal Action: A Fundamental Constraint on Perception of Bodily Movements&amp;rdquo;.&lt;/p&gt;
+<<<<<<< HEAD
+&lt;p&gt;Cite：&lt;/p&gt;
+&lt;p&gt;Peng Y, Thurman S, Lu H. Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements. Psychol Sci. 2017 Jun;28(6):798-807. doi: 10.1177/0956797617697739. Epub 2017 May 8. PMID: 28481714.&lt;/p&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 1&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video1_Exp1_matched.mp4)&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1, in which body position changes were synchronized with limb movements. Participants were asked to rate the naturalness of the observed actions in the video.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BXsH5-bX1JQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video2_Exp1_ahead.mp4):
+​&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1 for the ahead condition,  in which body position changes were shifted forward in time relative to limb movements by 1 second. Participants were asked to rate the naturalness of the observed actions in the video.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/p3WNSJdqI-c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 2&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Participants were first given a cover story. “Imagine that you work for a specialized video analysis company and are given two sources of information: a processed video from a motion tracking system, which records a person’s posture change over time and keeps the figure always at the center, and the location of the person reported from a GPS system. Our experiment simulates similar situations in which you observe a person walking on an uneven terrain”. They were then asked to judge “whether the GPS signal matches the person tracked by the camera”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video3_Exp2_matched.mp4):&lt;/p&gt;
+&lt;p&gt;​
+An example action video in Experiment 2, in which motion of GPS dot movements was synchronized with limb movements.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DFaMB45cTWY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video4_Exp2_ahead.mp4):&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 2 for the ahead condition,  in which GPS dot motion was shifted forward in time relative to limb movements by 1 second (hence effect movements preceded).&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/L-smm6HV2Dk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+=======
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
 </description>
     </item>
     
     <item>
       <title>Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements</title>
+<<<<<<< HEAD
+      <link>https://yjpeng11.github.io/publication/2017_peng_psysci/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2017_peng_psysci/</guid>
+=======
       <link>https://yjpeng11.github.io/publication/peng2017psysci/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/publication/peng2017psysci/</guid>
+>>>>>>> 715472d22a8b19e7eed199eb896f501ed204b61a
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -480,6 +1107,25 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     </item>
     
     <item>
+      <title>Attention-dependent early cortical suppression contributes to crowding</title>
+      <link>https://yjpeng11.github.io/publication/2014_chen_jon/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2014_chen_jon/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Yuxi Wang [yuxi.wang[at]stu.pku.edu.cn]</title>
       <link>https://yjpeng11.github.io/project/yuxi/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
@@ -488,11 +1134,66 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     </item>
     
     <item>
+      <title>Brain-Computer Interface for Cyberpsychology: Components, Methods, and Applications</title>
+      <link>https://yjpeng11.github.io/publication/2013_lupeng_bci/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2013_lupeng_bci/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://yjpeng11.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Spatial summation revealed in the earliest visual evoked component C1 and the effect of attention on its linearity</title>
+      <link>https://yjpeng11.github.io/publication/2016_chen_joneurophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2016_chen_joneurophy/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yujia Peng 彭玉佳</title>
+      <link>https://yjpeng11.github.io/author/yujia-peng-%E5%BD%AD%E7%8E%89%E4%BD%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/author/yujia-peng-%E5%BD%AD%E7%8E%89%E4%BD%B3/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;The Depression and Anxiety Computational Neuroscience (DACN) lab is affiliated with the Department of Psychological and Cognitive Sciences, Peking University, Beijing. We closely collaborate with the Institute for Artificial Intelligence, Peking University, and the Beijing Institute for General Artificial Intelligence (BIGAI). DACN lab overall focuses on the multi-dimensional mechanistic investigations of mood and anxiety disorders, with a special focus on computational psychiatry and neuroimaging. We use a combination of behavioral experiments, fMRI, EEG, MEG, computational modeling, and machine learning, to promote our understanding of mechanisms underlying mental disorders.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
