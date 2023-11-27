@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/news/</link>
+      <atom:link href="https://yjpeng11.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://yjpeng11.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>Yuxi presented at the National Academic Conference of Psychology</title>
+      <link>https://yjpeng11.github.io/news/22gpa/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22gpa/</guid>
+      <description>&lt;p&gt;Congratulations to Yuxi for 2 oral presentations accepted at the 24th National Academic Conference of Psychology&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DACN lab received the 2023 National Natural Science Foundation of China grant</title>
+      <link>https://yjpeng11.github.io/news/22cnsf/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22cnsf/</guid>
+      <description>&lt;p&gt;DACN lab received the 2023 Young Scholars Research Grant, National Natural Science Foundation of China.&lt;/p&gt;
+&lt;p&gt;Title：&lt;em&gt;The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Source：&lt;em&gt;National Natural Science Foundation of China&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hanyu and Xin received GPA scholarship</title>
+      <link>https://yjpeng11.github.io/news/22yuxipresent/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22yuxipresent/</guid>
+      <description>&lt;p&gt;Hanyu received the GPA scholarship, the first prize; Xin, the second prize. Congratulations, Hanyu and Xin.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yujia supported by the Young Elite Scientists Sponsorship Program</title>
+      <link>https://yjpeng11.github.io/news/22yujiagrant/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/news/22yujiagrant/</guid>
+      <description>&lt;p&gt;Yujia was supported by the Young Elite Scientists Sponsorship Program, China Association for Science and Technology.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
