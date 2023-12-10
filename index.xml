@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yujia Peng PKU</title>
+    <title>DACN PKU</title>
     <link>https://yjpeng11.github.io/</link>
       <atom:link href="https://yjpeng11.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yujia Peng PKU</description>
+    <description>DACN PKU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Yujia Peng PKU</title>
+      <title>DACN PKU</title>
       <link>https://yjpeng11.github.io/</link>
     </image>
     
@@ -66,7 +66,8 @@
       <link>https://yjpeng11.github.io/courses/psychopathology/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/courses/psychopathology/</guid>
-      <description>&lt;p&gt;Psychopathology&lt;/p&gt;
+      <description>&lt;p&gt;Psychopathology
+心理病理学&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -101,7 +102,20 @@
 &lt;li&gt;Week 14 Understanding personality disorders&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Supplemental materials&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Example Psychopathology supplemental videos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dettW10EqJM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;Psychopathology&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/T3BSVW8dUuo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;Psychopathology&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -253,14 +267,6 @@ F5. Interactions with strangers
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/news/22gpa/</guid>
       <description>&lt;p&gt;Congratulations to Yuxi for 2 oral presentations accepted at the 24th National Academic Conference of Psychology&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yjpeng11.github.io/_index-%E6%9D%A5%E8%87%AAlaptop-1qftfqv5%E7%9A%84%E5%86%B2%E7%AA%81%E5%89%AF%E6%9C%AC-2023-08-21_09.50.32/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/_index-%E6%9D%A5%E8%87%AAlaptop-1qftfqv5%E7%9A%84%E5%86%B2%E7%AA%81%E5%89%AF%E6%9C%AC-2023-08-21_09.50.32/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -464,9 +470,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/post/getting-started/</link>
+      <link>https://yjpeng11.github.io/post/neuro-mental/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/getting-started/</guid>
+      <guid>https://yjpeng11.github.io/post/neuro-mental/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -587,9 +593,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>The hierarchical representation of human actions and convolutional neural networks</title>
-      <link>https://yjpeng11.github.io/post/writing-technical-content/</link>
+      <link>https://yjpeng11.github.io/post/cnn/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/writing-technical-content/</guid>
+      <guid>https://yjpeng11.github.io/post/cnn/</guid>
       <description></description>
     </item>
     
@@ -641,9 +647,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Perceiving causal human actions</title>
-      <link>https://yjpeng11.github.io/post/jupyter/</link>
+      <link>https://yjpeng11.github.io/post/causalaction/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/jupyter/</guid>
+      <guid>https://yjpeng11.github.io/post/causalaction/</guid>
       <description>&lt;!-- ```python
 from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
@@ -1072,22 +1078,6 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
     </item>
     
     <item>
-      <title>Yujia Peng [yujia_peng[at]pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qianqian Ju [junoq[at]pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/external-project/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attention-dependent early cortical suppression contributes to crowding</title>
       <link>https://yjpeng11.github.io/publication/2014_chen_jon/</link>
       <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
@@ -1104,14 +1094,6 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Yuxi Wang [yuxi.wang[at]stu.pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/yuxi/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/yuxi/</guid>
-      <description></description>
     </item>
     
     <item>

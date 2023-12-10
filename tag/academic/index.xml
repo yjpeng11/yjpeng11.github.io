@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Yujia Peng PKU</title>
+    <title>Academic | DACN PKU</title>
     <link>https://yjpeng11.github.io/tag/academic/</link>
       <atom:link href="https://yjpeng11.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
@@ -89,9 +89,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/post/getting-started/</link>
+      <link>https://yjpeng11.github.io/post/neuro-mental/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/getting-started/</guid>
+      <guid>https://yjpeng11.github.io/post/neuro-mental/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
