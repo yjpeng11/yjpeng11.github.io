@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources | DACN PKU</title>
+    <title>Resources | Yujia Peng PKU</title>
     <link>https://yjpeng11.github.io/courses/</link>
       <atom:link href="https://yjpeng11.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
@@ -46,8 +46,7 @@
       <link>https://yjpeng11.github.io/courses/psychopathology/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://yjpeng11.github.io/courses/psychopathology/</guid>
-      <description>&lt;p&gt;Psychopathology
-心理病理学&lt;/p&gt;
+      <description>&lt;p&gt;Psychopathology&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -82,20 +81,7 @@
 &lt;li&gt;Week 14 Understanding personality disorders&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Supplemental materials&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Example Psychopathology supplemental videos&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/dettW10EqJM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;Psychopathology&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/T3BSVW8dUuo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;Psychopathology&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
