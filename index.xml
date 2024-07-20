@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujia Peng PKU</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yujia Peng PKU</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yujia Peng PKU</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>成人社交焦虑问卷中文版的效度和信度评价</title>
+      <link>http://localhost:1313/publication/2024_yxwang_saq/</link>
+      <pubDate>Fri, 05 Jul 2024 11:22:26 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_yxwang_saq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media</title>
+      <link>http://localhost:1313/publication/2024_qqju_mapping/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_qqju_mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadening the scope: Multiple functional connectivity networks underlying threat conditioning and extinction</title>
+      <link>http://localhost:1313/publication/2024_cushing_imageneuro/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_cushing_imageneuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping between the Human Visual System and Two-stream DCNNs in Action Representation</title>
+      <link>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of saliency and semantic features distinguish gaze of expert and novice viewers of surveillance footage</title>
+      <link>http://localhost:1313/publication/2024_peng_cctv/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_peng_cctv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychodynamic Profiles of Major Depressive Disorder and Generalized Anxiety Disorder in China</title>
+      <link>http://localhost:1313/publication/2024_xu_opd/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_xu_opd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Psychological Research Methods ​​</title>
+      <link>http://localhost:1313/courses/psychmethods/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/psychmethods/</guid>
+      <description>&lt;p&gt;Advanced Psychological Research Methods&lt;/p&gt;
+&lt;p&gt;Overview&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome to the course of Advanced Psychological Research Methods!&lt;/li&gt;
+&lt;li&gt;This course is designed to allow clinically oriented students to learn about experimental methods and related knowledge in clinical psychology. The course will discuss a variety of research designs and methods commonly used in the fields of clinical and health psychology, cognitive neuropsychology, and animal research. Topics covered include the scientific research process, formulating research questions, measurement validity and reliability, laboratory research, survey research, qualitative methods, and more. Learning about research methods in clinical psychology is not only foundational for understanding the overall cutting-edge field, but also provides a foundation for conducting your own research in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Syllabus&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Course Overview, Problem Selection and Types of Experiments&lt;/li&gt;
+&lt;li&gt;Sample and Sampling in Experimental Research&lt;/li&gt;
+&lt;li&gt;Descriptive Statistics, Inferential Statistics and Interpretation of Experimental Results&lt;/li&gt;
+&lt;li&gt;Reliability and Questionnaire Development&lt;/li&gt;
+&lt;li&gt;Behavioral measures&lt;/li&gt;
+&lt;li&gt;Non-experimental research: description and correlation&lt;/li&gt;
+&lt;li&gt;Qualitative Research&lt;/li&gt;
+&lt;li&gt;Pre-experimental vs. true experimental research methods&lt;/li&gt;
+&lt;li&gt;Quasi-experimental research (online)&lt;/li&gt;
+&lt;li&gt;Physiological Signal Recording&lt;/li&gt;
+&lt;li&gt;Brain Imaging Experimental Techniques&lt;/li&gt;
+&lt;li&gt;Brain Imaging and the Treatment of Mental Illness&lt;/li&gt;
+&lt;li&gt;Computational Modeling and Machine Learning in Clinical Psychology&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Psychopathology ​​</title>
+      <link>http://localhost:1313/courses/psychopathology/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/psychopathology/</guid>
+      <description>&lt;p&gt;Psychopathology&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Welcome to the course of Psychopathology! Before taking this course, you are encouraged to have taken Abnormal Psychology, and Physiological Psychology. Additionally, students with some knowledge of counseling and therapy will have more to gain from this course, so it is also encouraged that you take Introduction to Counseling and Therapy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The main objectives of this course are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1) To learn and understand the knowledge related to psychopathology (diagnosis of psychological disorders, pathological mechanisms of various types of psychological disorders), to learn about the latest developments in psychopathology, and to be able to integrate clinical phenomena with psychopathological mechanisms to promote effective diagnosis of patients with psychological disorders and their understanding of the psychopathological mechanisms of their pathology;&lt;/li&gt;
+&lt;li&gt;(2) On the basis of the previous course learning, to further possess or improve the skills of clinical questioning, assessment and diagnosis of common psychological disorders, and to be able to initially apply the theories learned to different clinical cases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As we encounter in the clinic, psychotherapy is a very complex process, and mastering it requires a long period of time, and this course will lay a solid foundation for you to enter the subsequent study of clinical psychology. I am very glad to start learning and exploring the mysteries of psychopathology with the students who take this course, and I also hope that the students who take this course can actively participate in the teaching and master the required knowledge and basic skills through teaching, literature reading and discussion, so that our teaching and learning can become an effective interactive relationship, and lay a good foundation for further study of psychotherapy in the future.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Syllabus&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Week 1 An Overview of Psychopathology: from categorical to dimensional approaches&lt;/li&gt;
+&lt;li&gt;Week 2 Brain evolution, emotion regulation, and the vulnerability for emotional disorders&lt;/li&gt;
+&lt;li&gt;Week 3 Brain, Experience and Destiny: Understanding psychopathology from the inter-generational biosocial-developmental model&lt;/li&gt;
+&lt;li&gt;Week 4 Defining Characteristics of the Major Clinical/Psychological Disorders&lt;/li&gt;
+&lt;li&gt;Week 5 Schizophrenia&lt;/li&gt;
+&lt;li&gt;Week 6 Mood Disorders&lt;/li&gt;
+&lt;li&gt;Week 7 Anxiety disorders&lt;/li&gt;
+&lt;li&gt;Week 8 PTSD &amp;amp; OCD&lt;/li&gt;
+&lt;li&gt;Week 9 Somatoform and Dissociative Disorders&lt;/li&gt;
+&lt;li&gt;Week 10 Feeding and Eating Disorders&lt;/li&gt;
+&lt;li&gt;Week 11 Sleep disorder&lt;/li&gt;
+&lt;li&gt;Week 12 Gender Identity Disorders, Sexual Dysfunctions, and Paraphilia&lt;/li&gt;
+&lt;li&gt;Week 13 Substance-use disorders and Addictive disorders&lt;/li&gt;
+&lt;li&gt;Week 14 Understanding personality disorders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental materials&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
+      <link>http://localhost:1313/publication/2023_peng_engineering/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_peng_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese Version of the Social Anxiety Questionnaire – Adults (CSAQ-A) ​​</title>
+      <link>http://localhost:1313/resources/2023csaq-a/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/2023csaq-a/</guid>
+      <description>&lt;p&gt;CSAQ-A measures social anxiety traits from five dimensions:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;F1. Speaking in public/talking with people in authority
+
+F2. Interactions with the opposite sex
+
+F3. Assertive expression of annoyance, disgust, or displeasure
+
+F4. Criticism and embarrassment
+
+F5. Interactions with strangers
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Objective: To test the validity and reliability of the Chinese version of the Social Anxiety Questionnaires-Adults (CSAQ-A).&lt;/p&gt;
+&lt;p&gt;Methods: Totally 555 participants [aged 18 to 60 years, average age (29 ± 8) years old] were recruited to complete the CSAQ-A. The Liebowitz Social Anxiety Scale (LSAS), the Brief Fear of Negative Evaluation Scale (BFNE) and several questionnaires related to anxiety and depression were conducted to test the criterion validity. After 4 weeks,143 subjects were retested.&lt;/p&gt;
+&lt;p&gt;Results: Confirmatory factor analysis demonstrated that the five-dimensional structure of the CSAQ-A exhibited excellent fit indices. The CSAQ-A scores showed positive correlations with the LSAS, BFNE and other measurements of anxiety and depression (ICC=0.395-0.668, Ps&amp;lt;0.001). The internal consistency of the scale was high (Cronbach&amp;rsquo;s alpha = 0.96), and the test-retest reliability was acceptable (0.80).&lt;/p&gt;
+&lt;p&gt;Conclusion: The Chinese version of the Social Anxiety Questionnaire-Adults has good validity and reliability and can effectively evaluate social anxiety in the Chinese adult population.&lt;/p&gt;
+&lt;p&gt;Citations:&lt;/p&gt;
+&lt;p&gt;[1] 王愉茜，臧寅垠，彭玉佳. 中文版成人社交焦虑量表的信效度检验[J]. (under review)&lt;/p&gt;
+&lt;p&gt;[2] Caballo VE, Salazar IC, Irurtia MJ, et al. The multidimensional nature and multicultural validity of a new measure of social anxiety: The Social Anxiety Questionnaire for Adults[J]. Behav Ther. 2012;43(2):313-328. doi: &lt;a href=&#34;https://doi.org/10.1016/j.beth.2011.07.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.beth.2011.07.001&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download, please fill out this form: &lt;a href=&#34;https://www.wjx.cn/vm/mqAThSP.aspx#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.cn/vm/mqAThSP.aspx#&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mapping between the Human Visual System and Two-stream DCNNs in Action Representation</title>
+      <link>http://localhost:1313/publication/2023_peng_cogsci/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_peng_cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion</title>
+      <link>http://localhost:1313/publication/2023_peng_sadperspect/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_peng_sadperspect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEWL：Few-shot multimodal word learning with referential uncertainty</title>
+      <link>http://localhost:1313/publication/2023_jiang_mewl/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_jiang_mewl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat neurocircuitry predicts the development of anxiety and depression symptoms in a longitudinal study</title>
+      <link>http://localhost:1313/publication/2023_peng_bpcnni/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_peng_bpcnni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion processing and intention inference in social anxiety disorder</title>
+      <link>http://localhost:1313/research/2022sad/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2022sad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurobiological substrates of mental disorders and potential treatments</title>
+      <link>http://localhost:1313/research/2021neurosubstrate/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2021neurosubstrate/</guid>
+      <description>&lt;!-- ```python
+import libr
+print(&#39;hello&#39;)
+``` --&gt;
+&lt;!-- 
+## Overview
+
+1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+
+## Get Started
+
+- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&amp;src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Wowchemy&#39;s future ❤️](https://wowchemy.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+
+## Features
+
+- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A unified psychological space for human perception of physical and social events</title>
+      <link>http://localhost:1313/publication/2021_shu_cogpsy/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_shu_cogpsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infant perception of causal motion produced by humans and inanimate objects</title>
+      <link>http://localhost:1313/publication/2021_peng_infant/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_peng_infant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
+      <link>http://localhost:1313/publication/2021_peng_bpcnni/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_peng_bpcnni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Code for Semantic Relations Predicts Neural Similarity during Analogical Reasoning</title>
+      <link>http://localhost:1313/publication/2020_chiang_joc/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020_chiang_joc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring biological motion perception in two-stream convolutional neural networks</title>
+      <link>http://localhost:1313/publication/2021_peng_cnnvisres/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_peng_cnnvisres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurobiological substrates of mental disorders and potential treatments</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;!-- ```python
+import libr
+print(&#39;hello&#39;)
+``` --&gt;
+&lt;!-- 
+## Overview
+
+1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+
+## Get Started
+
+- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&amp;src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Wowchemy&#39;s future ❤️](https://wowchemy.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+
+## Features
+
+- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal actions enhance perception of continuous body movements​</title>
+      <link>http://localhost:1313/demos/2020causalillusion/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/2020causalillusion/</guid>
+      <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal actions enhance perception of continuous body movements&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Cite：&lt;/p&gt;
+&lt;p&gt;Peng, Y., Ichien, N., &amp;amp; Lu, H. (2020). Causal actions enhance perception of continuous body movements. Cognition, 194, 104060.&lt;/p&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 1&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Video 1&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1. The two actors are interacting and the red actor demonstrates a sudden posture change in the middle of the action.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h1aWhrSw0P8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Video 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1. The two actors are interacting and the red actor demonstrates a gradual posture change in the middle of the action.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YoqdV80gAT0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Causal actions enhance perception of continuous body movements</title>
+      <link>http://localhost:1313/publication/2020_peng_cognition/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020_peng_cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The hierarchical representation of human actions and convolutional neural networks</title>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The hierarchical representation of human actions and convolutional neural networks</title>
+      <link>http://localhost:1313/research/2019actioncnn/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2019actioncnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Continuous Movements from Causal Actions</title>
+      <link>http://localhost:1313/publication/2019_peng_cogsci-causal/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_peng_cogsci-causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion or emotion: Infants discriminate emotional biological motion based on low-level visual information</title>
+      <link>http://localhost:1313/publication/2019_ogren_infant/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_ogren_infant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceiving causal human actions</title>
+      <link>http://localhost:1313/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/jupyter/</guid>
+      <description>&lt;!-- ```python
+from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+```
+
+![png](./index_1_0.png)
+
+```python
+print(&#34;Welcome to Academic!&#34;)
+```
+
+    Welcome to Academic!
+
+## Install Python and JupyterLab
+
+[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+
+Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+
+## Create or upload a Jupyter notebook
+
+Run the following commands in your Terminal, substituting `&lt;MY-WEBSITE-FOLDER&gt;` and `&lt;SHORT-POST-TITLE&gt;` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+
+```bash
+mkdir -p &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+cd &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+jupyter lab index.ipynb
+```
+
+The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+
+## Edit your post metadata
+
+The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+
+In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+
+```
+---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+```
+
+Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
+
+To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post&#39;s folder.
+
+For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+## Convert notebook to Markdown
+
+```bash
+jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+```
+
+## Example
+
+This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perceiving causal human actions</title>
+      <link>http://localhost:1313/research/2019causality/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2019causality/</guid>
+      <description>&lt;!-- ```python
+from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+```
+
+![png](./index_1_0.png)
+
+```python
+print(&#34;Welcome to Academic!&#34;)
+```
+
+    Welcome to Academic!
+
+## Install Python and JupyterLab
+
+[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+
+Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+
+## Create or upload a Jupyter notebook
+
+Run the following commands in your Terminal, substituting `&lt;MY-WEBSITE-FOLDER&gt;` and `&lt;SHORT-POST-TITLE&gt;` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+
+```bash
+mkdir -p &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+cd &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+jupyter lab index.ipynb
+```
+
+The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+
+## Edit your post metadata
+
+The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+
+In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+
+```
+---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+```
+
+Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
+
+To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post&#39;s folder.
+
+For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+## Convert notebook to Markdown
+
+```bash
+jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+```
+
+## Example
+
+This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://localhost:1313/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain-computer interface for cyberpsychology</title>
+      <link>http://localhost:1313/publication/2019_peng_bci/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_peng_bci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intact perception of coherent motion, dynamic rigid form, and biological motion in chronic schizophrenia</title>
+      <link>http://localhost:1313/publication/2018_keane_schizo/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018_keane_schizo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infant perception of sex differences in biological motion displays</title>
+      <link>http://localhost:1313/publication/2018_tsang_infant/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018_tsang_infant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
+      <link>http://localhost:1313/publication/2017_shu_aerial/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2017_shu_aerial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in high-level biological motion tasks correlate with autistic traits</title>
+      <link>http://localhost:1313/publication/2016_van_autism/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016_van_autism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Action: A Fundamental Constraint on Perception of Bodily Movements ​</title>
+      <link>http://localhost:1313/demos/2017causalaction/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/2017causalaction/</guid>
+      <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal Action: A Fundamental Constraint on Perception of Bodily Movements&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Cite：&lt;/p&gt;
+&lt;p&gt;Peng Y, Thurman S, Lu H. Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements. Psychol Sci. 2017 Jun;28(6):798-807. doi: 10.1177/0956797617697739. Epub 2017 May 8. PMID: 28481714.&lt;/p&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 1&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video1_Exp1_matched.mp4)&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1, in which body position changes were synchronized with limb movements. Participants were asked to rate the naturalness of the observed actions in the video.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BXsH5-bX1JQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video2_Exp1_ahead.mp4):
+​&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 1 for the ahead condition,  in which body position changes were shifted forward in time relative to limb movements by 1 second. Participants were asked to rate the naturalness of the observed actions in the video.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/p3WNSJdqI-c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;font size=18&gt;Experiment 2&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Participants were first given a cover story. “Imagine that you work for a specialized video analysis company and are given two sources of information: a processed video from a motion tracking system, which records a person’s posture change over time and keeps the figure always at the center, and the location of the person reported from a GPS system. Our experiment simulates similar situations in which you observe a person walking on an uneven terrain”. They were then asked to judge “whether the GPS signal matches the person tracked by the camera”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video3_Exp2_matched.mp4):&lt;/p&gt;
+&lt;p&gt;​
+An example action video in Experiment 2, in which motion of GPS dot movements was synchronized with limb movements.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/DFaMB45cTWY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Supplemental video 4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Supplemental_Video4_Exp2_ahead.mp4):&lt;/p&gt;
+&lt;p&gt;An example action video used in Experiment 2 for the ahead condition,  in which GPS dot motion was shifted forward in time relative to limb movements by 1 second (hence effect movements preceded).&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/L-smm6HV2Dk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements</title>
+      <link>http://localhost:1313/publication/2017_peng_psysci/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2017_peng_psysci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yujia Peng [yujia_peng[at]pku.edu.cn]</title>
+      <link>http://localhost:1313/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qianqian Ju [junoq[at]pku.edu.cn]</title>
+      <link>http://localhost:1313/project/external-project/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-dependent early cortical suppression contributes to crowding</title>
+      <link>http://localhost:1313/publication/2014_chen_jon/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2014_chen_jon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuxi Wang [yuxi.wang[at]stu.pku.edu.cn]</title>
+      <link>http://localhost:1313/project/yuxi/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/yuxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain-Computer Interface for Cyberpsychology: Components, Methods, and Applications</title>
+      <link>http://localhost:1313/publication/2013_lupeng_bci/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2013_lupeng_bci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Spatial summation revealed in the earliest visual evoked component C1 and the effect of attention on its linearity</title>
+      <link>http://localhost:1313/publication/2016_chen_joneurophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016_chen_joneurophy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
