@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Di Lu 路迪 | Yujia Peng PKU</title>
+    <link>http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/</link>
+      <atom:link href="http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/index.xml" rel="self" type="application/rss+xml" />
+    <description>Di Lu 路迪</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/avatar_hub08355ddc71834f81ec35ebeaf0d78c5_52963_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Di Lu 路迪</title>
+      <link>http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/</link>
+    </image>
+    
+    <item>
+      <title>Di Lu 路迪</title>
+      <link>http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/di-lu-%E8%B7%AF%E8%BF%AA/</guid>
+      <description>&lt;p&gt;Ludi received her M.S. in psychology at Beijing Normal University. Broadly, I am interested in the cognitive and neural mechanisms of anxiety and depression and exploring potential treatments. My work mainly concerns with the following aspects, (1) decoding the multi-modal biological signals of patients with anxiety and depression by computational modeling, and revealing the behavioral and physiological characteristics of anxiety and depression; (2) Adopting the social evaluation experiment to study the cognitive and neural mechanisms of anxiety and depression in social interactions. In addition, I am also interested in using VR and neurofeedback to diagnose and treat mental disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

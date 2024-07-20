@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dejiyangla 德吉央拉 | Yujia Peng PKU</title>
+    <link>http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/</link>
+      <atom:link href="http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dejiyangla 德吉央拉</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/avatar_hu51a1079d2c2bea036c3e323c2e4bdf92_175711_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dejiyangla 德吉央拉</title>
+      <link>http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/</link>
+    </image>
+    
+    <item>
+      <title>Dejiyangla 德吉央拉</title>
+      <link>http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/dejiyangla-%E5%BE%B7%E5%90%89%E5%A4%AE%E6%8B%89/</guid>
+      <description>&lt;p&gt;Dejiangyala is primarily interested in understanding the underlying mechanisms of depression from a reward-based perspective. My work will unfold in the following aspects: (1) Applying multimodal biosignal decoding techniques to analyze the differences in brain activity and physiological responses between depressed patients and healthy individuals during reward tasks, specifically observing changes in key regions such as the dopaminergic system, the nucleus accumbens, and the prefrontal cortex; (2) Utilizing computational modeling to simulate the formation, updating, and decision-making processes of reward anticipation in depressed patients, exploring whether there are significant differences compared to healthy individuals, and how these differences impact mood and behavior. Understanding the reward processing mechanisms in individuals with depression can help us develop more personalized treatment approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

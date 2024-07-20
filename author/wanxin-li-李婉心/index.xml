@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanxin Li 李婉心 | Yujia Peng PKU</title>
+    <link>http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/</link>
+      <atom:link href="http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanxin Li 李婉心</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/avatar_hu6040fc09a5e01bfc5e5f4f76fa0cf111_612219_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Wanxin Li 李婉心</title>
+      <link>http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/</link>
+    </image>
+    
+    <item>
+      <title>Wanxin Li 李婉心</title>
+      <link>http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/</guid>
+      <description>&lt;p&gt;Write your introduction here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
