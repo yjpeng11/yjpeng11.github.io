@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/di-lu/</link>
       <atom:link href="http://localhost:1313/author/di-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Di Lu</title>
       <link>http://localhost:1313/author/di-lu/</link>
     </image>
+    
+    <item>
+      <title>PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality</title>
+      <link>http://localhost:1313/publication/2024_dlu_personality/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_dlu_personality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion</title>

@@ -34,6 +34,10 @@
     <lastmod>2024-07-05T11:22:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/2024_yxwang_saq/</loc>
+    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/yinyin-zang/</loc>
     <lastmod>2024-07-05T11:22:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/yuxi-wang/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/2024_yxwang_saq/</loc>
     <lastmod>2024-07-05T11:22:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -158,6 +158,42 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/di-lu/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/huiqi-hu/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/jinan-xu/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/nan-jiang/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024_dlu_personality/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/qing-li/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/wenjuan-han/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/xianhao-yu/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/xintong-zhang/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/catherine-neary/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,10 +272,6 @@
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/di-lu/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/fang-fang/</loc>
