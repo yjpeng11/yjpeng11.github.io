@@ -10,20 +10,48 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/resources/2024cnnfmri/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/fang-fang/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/hongjing-lu/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024_peng_jocn/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/xizi-gong/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/yujia-peng/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tag/source-themes/</loc>
@@ -39,10 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/yinyin-zang/</loc>
-    <lastmod>2024-07-05T11:22:26+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/yujia-peng/</loc>
     <lastmod>2024-07-05T11:22:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,10 +230,6 @@
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/hongjing-lu/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/author/joseph-m.-burling/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,23 +290,11 @@
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/fang-fang/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/2023_peng_cogsci/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/2023_peng_sadperspect/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/xizi-gong/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

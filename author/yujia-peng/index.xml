@@ -5,12 +5,31 @@
     <link>http://localhost:1313/author/yujia-peng/</link>
       <atom:link href="http://localhost:1313/author/yujia-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yujia Peng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 11:22:26 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/yujia-peng/avatar_hu594787294835488f992c38ab72b64d98_108842_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yujia Peng</title>
       <link>http://localhost:1313/author/yujia-peng/</link>
     </image>
+    
+    <item>
+      <title>Human Visual Pathways for Action Recognition Versus Deep Convolutional Neural Networks: Representation Correspondence in Late But Not Early Layers</title>
+      <link>http://localhost:1313/publication/2024_peng_jocn/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_peng_jocn/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Validity and reliability of the Chinese version of Social Anxiety Questionnaire for Adults (成人社交焦虑问卷中文版的效度和信度评价)</title>
