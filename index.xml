@@ -38,10 +38,8 @@
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resources/2024cnnfmri/</guid>
       <description>&lt;p&gt;HAPPV includes photorealistic and point-light videos of 36 human actions:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Action stimuli used in the experiment were generated from the Carnegie Mellon University Motion Capture Database (https://mocap.cs.cmu.edu). 
-
-As in (Dittrich, 1993), action categories were grouped into three semantic classes: Locomotory action (jumping, running, and walking), Instrumental action (ball bouncing, playing an instrument, and golf swing), and Social action (dancing, greeting, and showing directions)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Action stimuli used in the experiment were generated from the Carnegie Mellon University Motion Capture Database (&lt;a href=&#34;https://mocap.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mocap.cs.cmu.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;As in (Dittrich, 1993), action categories were grouped into three semantic classes: Locomotory action (jumping, running, and walking), Instrumental action (ball bouncing, playing an instrument, and golf swing), and Social action (dancing, greeting, and showing directions)&lt;/p&gt;
 &lt;p&gt;Citations:&lt;/p&gt;
 &lt;p&gt;[1] Yujia Peng, Xizi Gong, Hongjing Lu, Fang Fang; Human Visual Pathways for Action Recognition Versus Deep Convolutional Neural Networks: Representation Correspondence in Late But Not Early Layers. J Cogn Neurosci 2024; doi: &lt;a href=&#34;https://doi.org/10.1162/jocn_a_02233&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1162/jocn_a_02233&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To download, please fill out this form: &lt;a href=&#34;https://www.wjx.cn/vm/OtRRPQ9.aspx#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.cn/vm/OtRRPQ9.aspx#&lt;/a&gt;&lt;/p&gt;</description>
@@ -52,18 +50,7 @@ As in (Dittrich, 1993), action categories were grouped into three semantic class
       <link>http://localhost:1313/publication/2024_peng_jocn/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024_peng_jocn/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
