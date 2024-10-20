@@ -5,12 +5,20 @@
     <link>http://localhost:1313/research/</link>
       <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Research projects</title>
       <link>http://localhost:1313/research/</link>
     </image>
+    
+    <item>
+      <title>The Tong Test:Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interaction</title>
+      <link>http://localhost:1313/research/2024tong/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2024tong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emotion processing and intention inference in social anxiety disorder</title>

@@ -10,6 +10,14 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/research/2024tong/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/resources/2024cnnfmri/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,10 +367,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/research/2022sad/</loc>
-    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
