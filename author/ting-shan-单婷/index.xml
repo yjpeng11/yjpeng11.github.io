@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ting Shan 单婷 | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
-      <atom:link href="http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
+      <atom:link href="https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>Ting Shan 单婷</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/avatar_hu2fc5dc0362c3ff3f17322fc80e170805_369955_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/avatar_hu2fc5dc0362c3ff3f17322fc80e170805_369955_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ting Shan 单婷</title>
-      <link>http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
+      <link>https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
     </image>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Liu | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/author/feng-liu/</link>
+      <atom:link href="https://yjpeng11.github.io/author/feng-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Feng Liu</title>
+      <link>https://yjpeng11.github.io/author/feng-liu/</link>
+    </image>
+    
+    <item>
+      <title>Artificial intelligence in mental health: innovations brought by artificial intelligence techniques in stress detection and interventions of building resilience</title>
+      <link>https://yjpeng11.github.io/publication/2024_qqju/index_liu_2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2024_qqju/index_liu_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
