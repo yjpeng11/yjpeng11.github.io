@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lixing Niu | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/lixing-niu/</link>
-      <atom:link href="https://yjpeng11.github.io/author/lixing-niu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lixing-niu/</link>
+      <atom:link href="http://localhost:1313/author/lixing-niu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lixing Niu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lixing Niu</title>
-      <link>https://yjpeng11.github.io/author/lixing-niu/</link>
+      <link>http://localhost:1313/author/lixing-niu/</link>
     </image>
     
     <item>
       <title>Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities</title>
-      <link>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</link>
+      <link>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</guid>
+      <guid>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</guid>
       <description></description>
     </item>
     

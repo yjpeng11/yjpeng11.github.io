@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Song-Chun Zhu | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/song-chun-zhu/</link>
-      <atom:link href="https://yjpeng11.github.io/author/song-chun-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/song-chun-zhu/</link>
+      <atom:link href="http://localhost:1313/author/song-chun-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Song-Chun Zhu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Song-Chun Zhu</title>
-      <link>https://yjpeng11.github.io/author/song-chun-zhu/</link>
+      <link>http://localhost:1313/author/song-chun-zhu/</link>
     </image>
     
     <item>
       <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
-      <link>https://yjpeng11.github.io/publication/2023_peng_engineering/</link>
+      <link>http://localhost:1313/publication/2023_peng_engineering/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_peng_engineering/</guid>
+      <guid>http://localhost:1313/publication/2023_peng_engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A unified psychological space for human perception of physical and social events</title>
-      <link>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</link>
+      <link>http://localhost:1313/publication/2021_shu_cogpsy/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</guid>
+      <guid>http://localhost:1313/publication/2021_shu_cogpsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
-      <link>https://yjpeng11.github.io/publication/2017_shu_aerial/</link>
+      <link>http://localhost:1313/publication/2017_shu_aerial/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2017_shu_aerial/</guid>
+      <guid>http://localhost:1313/publication/2017_shu_aerial/</guid>
       <description></description>
     </item>
     

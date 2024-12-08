@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frank E. Pollick | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/frank-e.-pollick/</link>
-      <atom:link href="https://yjpeng11.github.io/author/frank-e.-pollick/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/frank-e.-pollick/</link>
+      <atom:link href="http://localhost:1313/author/frank-e.-pollick/index.xml" rel="self" type="application/rss+xml" />
     <description>Frank E. Pollick</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Frank E. Pollick</title>
-      <link>https://yjpeng11.github.io/author/frank-e.-pollick/</link>
+      <link>http://localhost:1313/author/frank-e.-pollick/</link>
     </image>
     
     <item>
       <title>Patterns of saliency and semantic features distinguish gaze of expert and novice viewers of surveillance footage</title>
-      <link>https://yjpeng11.github.io/publication/2024_peng_cctv/</link>
+      <link>http://localhost:1313/publication/2024_peng_cctv/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_peng_cctv/</guid>
+      <guid>http://localhost:1313/publication/2024_peng_cctv/</guid>
       <description></description>
     </item>
     

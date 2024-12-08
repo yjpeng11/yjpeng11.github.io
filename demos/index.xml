@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/demos/</link>
-      <atom:link href="https://yjpeng11.github.io/demos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/demos/</link>
+      <atom:link href="http://localhost:1313/demos/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Resources</title>
-      <link>https://yjpeng11.github.io/demos/</link>
+      <link>http://localhost:1313/demos/</link>
     </image>
     
     <item>
       <title>Causal actions enhance perception of continuous body movements​</title>
-      <link>https://yjpeng11.github.io/demos/2020causalillusion/</link>
+      <link>http://localhost:1313/demos/2020causalillusion/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/demos/2020causalillusion/</guid>
+      <guid>http://localhost:1313/demos/2020causalillusion/</guid>
       <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal actions enhance perception of continuous body movements&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Cite：&lt;/p&gt;
 &lt;p&gt;Peng, Y., Ichien, N., &amp;amp; Lu, H. (2020). Causal actions enhance perception of continuous body movements. Cognition, 194, 104060.&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Causal Action: A Fundamental Constraint on Perception of Bodily Movements ​</title>
-      <link>https://yjpeng11.github.io/demos/2017causalaction/</link>
+      <link>http://localhost:1313/demos/2017causalaction/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/demos/2017causalaction/</guid>
+      <guid>http://localhost:1313/demos/2017causalaction/</guid>
       <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal Action: A Fundamental Constraint on Perception of Bodily Movements&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Cite：&lt;/p&gt;
 &lt;p&gt;Peng Y, Thurman S, Lu H. Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements. Psychol Sci. 2017 Jun;28(6):798-807. doi: 10.1177/0956797617697739. Epub 2017 May 8. PMID: 28481714.&lt;/p&gt;

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research projects | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/research/</link>
-      <atom:link href="https://yjpeng11.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Research projects</title>
-      <link>https://yjpeng11.github.io/research/</link>
+      <link>http://localhost:1313/research/</link>
     </image>
     
     <item>
       <title>The Tong Test:Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interaction</title>
-      <link>https://yjpeng11.github.io/research/2024tong/</link>
+      <link>http://localhost:1313/research/2024tong/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2024tong/</guid>
+      <guid>http://localhost:1313/research/2024tong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion processing and intention inference in social anxiety disorder</title>
-      <link>https://yjpeng11.github.io/research/2022sad/</link>
+      <link>http://localhost:1313/research/2022sad/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2022sad/</guid>
+      <guid>http://localhost:1313/research/2022sad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/research/2021neurosubstrate/</link>
+      <link>http://localhost:1313/research/2021neurosubstrate/</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2021neurosubstrate/</guid>
+      <guid>http://localhost:1313/research/2021neurosubstrate/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -105,17 +105,17 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>The hierarchical representation of human actions and convolutional neural networks</title>
-      <link>https://yjpeng11.github.io/research/2019actioncnn/</link>
+      <link>http://localhost:1313/research/2019actioncnn/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2019actioncnn/</guid>
+      <guid>http://localhost:1313/research/2019actioncnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceiving causal human actions</title>
-      <link>https://yjpeng11.github.io/research/2019causality/</link>
+      <link>http://localhost:1313/research/2019causality/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2019causality/</guid>
+      <guid>http://localhost:1313/research/2019causality/</guid>
       <description>&lt;!-- ```python
 from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)

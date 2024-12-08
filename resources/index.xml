@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/resources/</link>
-      <atom:link href="https://yjpeng11.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/resources/</link>
+      <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Resources</title>
-      <link>https://yjpeng11.github.io/resources/</link>
+      <link>http://localhost:1313/resources/</link>
     </image>
     
     <item>
+      <title>recommended reading list, papers, books  ​​</title>
+      <link>http://localhost:1313/resources/2024recommend/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/2024recommend/</guid>
+      <description>&lt;p&gt;This curated selection of books and articles offers thought-provoking ideas and valuable insights across a variety of topics.
+Whether you&amp;rsquo;re looking to expand your knowledge, explore new perspectives, or simply find inspiration,
+these resources are sure to enrich your understanding and spark your curiosity.This list has something for everyone.
+Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0dRcVlH?tab=BB08J2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.qq.com/sheet/DUUhVcWRUa0dRcVlH?tab=BB08J2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Human Action Photorealistic and Point-light Videos (HAPPV)  ​​</title>
-      <link>https://yjpeng11.github.io/resources/2024cnnfmri/</link>
+      <link>http://localhost:1313/resources/2024cnnfmri/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2024cnnfmri/</guid>
+      <guid>http://localhost:1313/resources/2024cnnfmri/</guid>
       <description>&lt;p&gt;HAPPV includes photorealistic and point-light videos of 36 human actions:&lt;/p&gt;
 &lt;p&gt;Action stimuli used in the experiment were generated from the Carnegie Mellon University Motion Capture Database (&lt;a href=&#34;https://mocap.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mocap.cs.cmu.edu&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;As in (Dittrich, 1993), action categories were grouped into three semantic classes: Locomotory action (jumping, running, and walking), Instrumental action (ball bouncing, playing an instrument, and golf swing), and Social action (dancing, greeting, and showing directions)&lt;/p&gt;
@@ -27,9 +39,9 @@
     
     <item>
       <title>Chinese Version of the Social Anxiety Questionnaire – Adults (CSAQ-A) ​​</title>
-      <link>https://yjpeng11.github.io/resources/2023csaq-a/</link>
+      <link>http://localhost:1313/resources/2023csaq-a/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2023csaq-a/</guid>
+      <guid>http://localhost:1313/resources/2023csaq-a/</guid>
       <description>&lt;p&gt;CSAQ-A measures social anxiety traits from five dimensions:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;F1. Speaking in public/talking with people in authority
 
