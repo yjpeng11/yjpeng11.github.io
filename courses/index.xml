@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | Yujia Peng PKU</title>
-    <link>http://localhost:1313/courses/</link>
-      <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/courses/</link>
+      <atom:link href="https://yjpeng11.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Resources</title>
-      <link>http://localhost:1313/courses/</link>
+      <link>https://yjpeng11.github.io/courses/</link>
     </image>
     
     <item>
       <title>Advanced Psychological Research Methods ​​</title>
-      <link>http://localhost:1313/courses/psychmethods/</link>
+      <link>https://yjpeng11.github.io/courses/psychmethods/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/psychmethods/</guid>
+      <guid>https://yjpeng11.github.io/courses/psychmethods/</guid>
       <description>&lt;p&gt;Advanced Psychological Research Methods&lt;/p&gt;
 &lt;p&gt;Overview&lt;/p&gt;
 &lt;ul&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Psychopathology ​​</title>
-      <link>http://localhost:1313/courses/psychopathology/</link>
+      <link>https://yjpeng11.github.io/courses/psychopathology/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/psychopathology/</guid>
+      <guid>https://yjpeng11.github.io/courses/psychopathology/</guid>
       <description>&lt;p&gt;Psychopathology&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

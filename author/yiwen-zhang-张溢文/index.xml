@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiwen Zhang 张溢文 | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/</link>
-      <atom:link href="http://localhost:1313/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/</link>
+      <atom:link href="https://yjpeng11.github.io/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiwen Zhang 张溢文</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yiwen Zhang 张溢文</title>
-      <link>http://localhost:1313/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/</link>
+      <link>https://yjpeng11.github.io/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/</link>
     </image>
     
   </channel>

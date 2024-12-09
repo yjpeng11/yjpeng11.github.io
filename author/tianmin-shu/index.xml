@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianmin Shu | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/tianmin-shu/</link>
-      <atom:link href="http://localhost:1313/author/tianmin-shu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/tianmin-shu/</link>
+      <atom:link href="https://yjpeng11.github.io/author/tianmin-shu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianmin Shu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tianmin Shu</title>
-      <link>http://localhost:1313/author/tianmin-shu/</link>
+      <link>https://yjpeng11.github.io/author/tianmin-shu/</link>
     </image>
     
     <item>
       <title>A unified psychological space for human perception of physical and social events</title>
-      <link>http://localhost:1313/publication/2021_shu_cogpsy/</link>
+      <link>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_shu_cogpsy/</guid>
+      <guid>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring biological motion perception in two-stream convolutional neural networks</title>
-      <link>http://localhost:1313/publication/2021_peng_cnnvisres/</link>
+      <link>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_peng_cnnvisres/</guid>
+      <guid>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
-      <link>http://localhost:1313/publication/2017_shu_aerial/</link>
+      <link>https://yjpeng11.github.io/publication/2017_shu_aerial/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017_shu_aerial/</guid>
+      <guid>https://yjpeng11.github.io/publication/2017_shu_aerial/</guid>
       <description></description>
     </item>
     

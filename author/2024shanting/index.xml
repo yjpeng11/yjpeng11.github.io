@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024ShanTing | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/2024shanting/</link>
-      <atom:link href="http://localhost:1313/author/2024shanting/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/2024shanting/</link>
+      <atom:link href="https://yjpeng11.github.io/author/2024shanting/index.xml" rel="self" type="application/rss+xml" />
     <description>2024ShanTing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2024ShanTing</title>
-      <link>http://localhost:1313/author/2024shanting/</link>
+      <link>https://yjpeng11.github.io/author/2024shanting/</link>
     </image>
     
     <item>
       <title>Ting Shan 单婷</title>
-      <link>http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
+      <link>https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/ting-shan-%E5%8D%95%E5%A9%B7/</guid>
+      <guid>https://yjpeng11.github.io/author/ting-shan-%E5%8D%95%E5%A9%B7/</guid>
       <description>&lt;p&gt;A woman who loves psychology very much.&lt;/p&gt;
 </description>
     </item>

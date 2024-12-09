@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xizi Gong | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/xizi-gong/</link>
-      <atom:link href="http://localhost:1313/author/xizi-gong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/xizi-gong/</link>
+      <atom:link href="https://yjpeng11.github.io/author/xizi-gong/index.xml" rel="self" type="application/rss+xml" />
     <description>Xizi Gong</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xizi Gong</title>
-      <link>http://localhost:1313/author/xizi-gong/</link>
+      <link>https://yjpeng11.github.io/author/xizi-gong/</link>
     </image>
     
     <item>
       <title>Human Visual Pathways for Action Recognition Versus Deep Convolutional Neural Networks: Representation Correspondence in Late But Not Early Layers</title>
-      <link>http://localhost:1313/publication/2024_peng_jocn/</link>
+      <link>https://yjpeng11.github.io/publication/2024_peng_jocn/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024_peng_jocn/</guid>
+      <guid>https://yjpeng11.github.io/publication/2024_peng_jocn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping between the Human Visual System and Two-stream DCNNs in Action Representation</title>
-      <link>http://localhost:1313/publication/2023_peng_cogsci/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_cogsci/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_peng_cogsci/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_cogsci/</guid>
       <description></description>
     </item>
     
