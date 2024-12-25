@@ -2,21 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/</link>
-      <atom:link href="https://yjpeng11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Yujia Peng PKU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Yujia Peng PKU</title>
-      <link>https://yjpeng11.github.io/</link>
-    </image>
-    
     <item>
       <title>Example Talk</title>
-      <link>https://yjpeng11.github.io/talk/example-talk/</link>
+      <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/talk/example-talk/</guid>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,26 +27,60 @@
     </item>
     
     <item>
+      <title>Social Artificial Intelligence Picture System (SAIPS)  ​​</title>
+      <link>http://localhost:1313/resources/2024saips/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/2024saips/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Social Artificial Intelligence Picture System (SAIPS)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt; We developed the Social Artificial Intelligence Picture System (SAIPS), based on a generative multimodal artificial intelligence model. The system contains 279 social scenario images and 118 control images, generated using AI tools such as Stable Diffusion-XL and DALL-E 2. The pictures were generated along three theoretical dimensions grounded in existing theories related to social anxiety:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emotional Expression:&lt;/strong&gt; Pictures depict emotional expressions categorized as negative, neutral, or positive.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Social Dominance:&lt;/strong&gt; Pictures include scenarios with a dominant individual (i.e., one agent presenting a sense of being more important or stronger than other agents in the picture, or than the observer) or otherwise (e.g., peer-like relationships, or a single agent).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Eye Contact:&lt;/strong&gt; Some pictures involve direct eye contact between characters and the observer, while others do not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All pictures were uniformly resized to 1024×768 pixels to maintain consistency across the dataset.&lt;/p&gt;
+&lt;p&gt;In addition, SAIPS includes five subjective ratings: Social Anxiety Rating (SAR), Valence, Arousal, Involvement, and Picture-Text Consistency. These ratings offer a more comprehensive analysis of how images influence individuals&amp;rsquo; psychological responses. The system also provides objective ratings, including image descriptions, scene characteristics, and the number of characters present, offering a multi-layered data set for research purposes.&lt;/p&gt;
+&lt;p&gt;To explore specific response patterns to social scenarios, SAIPS includes 118 control images without people, which help enhance the system&amp;rsquo;s accuracy in predicting social anxiety traits. SAIPS serves as a valuable resource for research on social anxiety, mental health, and the development of AI-based diagnostic and therapeutic tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt; Ju, Q., Xu, Z., Chen, Z., Fan, J., Zhang, H., &amp;amp; Peng, Y. (2025). Screening Social Anxiety with the Social Artificial Intelligence Picture System. Journal of Anxiety Disorders, 109, 102955. &lt;a href=&#34;https://doi.org/10.1016/j.janxdis.2024.102955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.janxdis.2024.102955&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agreement:&lt;/strong&gt; Researchers requesting access to the SAIPS database must sign the SAIPS Release Agreement. Please review the agreement details below. After signing, send a scanned copy to &lt;a href=&#34;mailto:junoq0420@163.com&#34;&gt;junoq0420@163.com&lt;/a&gt; and &lt;a href=&#34;mailto:yujia_peng@pku.edu.cn&#34;&gt;yujia_peng@pku.edu.cn&lt;/a&gt; with the subject line “SAIPS request.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/yjpeng11/yjpeng11.github.io/refs/heads/main/resources/2024saips/Agreement-SAIPS-PKU-JU-PENG-2024.pdf&#34; download=&#34;Agreement-SAIPS-PKU-JU-PENG-2024.pdf&#34;&gt;Download the SAIPS Release Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Terms and Conditions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;For Academic Use Only:&lt;/strong&gt; The SAIPS dataset is strictly for academic and research purposes and must not be used for commercial purposes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publication Requirements:&lt;/strong&gt; Any paper or report using SAIPS images must include the citation of the article mentioned above.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No Redistribution or Modification:&lt;/strong&gt; Redistribution, publication, copying, or modification of the SAIPS dataset is prohibited without prior written approval from the SAIPS Principal Investigator.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A task generation method and system.</title>
-      <link>https://yjpeng11.github.io/publication/2024_peng_patent/</link>
+      <link>http://localhost:1313/publication/2024_peng_patent/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_peng_patent/</guid>
+      <guid>http://localhost:1313/publication/2024_peng_patent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Tong Test:Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interaction</title>
-      <link>https://yjpeng11.github.io/research/2024tong/</link>
+      <link>http://localhost:1313/research/2024tong/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2024tong/</guid>
+      <guid>http://localhost:1313/research/2024tong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recommended reading list, papers, books  ​​</title>
-      <link>https://yjpeng11.github.io/resources/2024recommend/</link>
+      <link>http://localhost:1313/resources/2024recommend/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2024recommend/</guid>
+      <guid>http://localhost:1313/resources/2024recommend/</guid>
       <description>&lt;p&gt;This curated selection of books and articles offers thought-provoking ideas and valuable insights across a variety of topics.
 Whether you&amp;rsquo;re looking to expand your knowledge, explore new perspectives, or simply find inspiration,
 these resources are sure to enrich your understanding and spark your curiosity.This list has something for everyone.
@@ -62,17 +90,17 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>Artificial intelligence in mental health: innovations brought by artificial intelligence techniques in stress detection and interventions of building resilience</title>
-      <link>https://yjpeng11.github.io/publication/2024_qqju/index_liu_2024/</link>
+      <link>http://localhost:1313/publication/2024_qqju/index_liu_2024/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_qqju/index_liu_2024/</guid>
+      <guid>http://localhost:1313/publication/2024_qqju/index_liu_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Action Photorealistic and Point-light Videos (HAPPV)  ​​</title>
-      <link>https://yjpeng11.github.io/resources/2024cnnfmri/</link>
+      <link>http://localhost:1313/resources/2024cnnfmri/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2024cnnfmri/</guid>
+      <guid>http://localhost:1313/resources/2024cnnfmri/</guid>
       <description>&lt;p&gt;HAPPV includes photorealistic and point-light videos of 36 human actions:&lt;/p&gt;
 &lt;p&gt;Action stimuli used in the experiment were generated from the Carnegie Mellon University Motion Capture Database (&lt;a href=&#34;https://mocap.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mocap.cs.cmu.edu&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;As in (Dittrich, 1993), action categories were grouped into three semantic classes: Locomotory action (jumping, running, and walking), Instrumental action (ball bouncing, playing an instrument, and golf swing), and Social action (dancing, greeting, and showing directions)&lt;/p&gt;
@@ -83,73 +111,73 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>Human Visual Pathways for Action Recognition Versus Deep Convolutional Neural Networks: Representation Correspondence in Late But Not Early Layers</title>
-      <link>https://yjpeng11.github.io/publication/2024_peng_jocn/</link>
+      <link>http://localhost:1313/publication/2024_peng_jocn/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_peng_jocn/</guid>
+      <guid>http://localhost:1313/publication/2024_peng_jocn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validity and reliability of the Chinese version of Social Anxiety Questionnaire for Adults (成人社交焦虑问卷中文版的效度和信度评价)</title>
-      <link>https://yjpeng11.github.io/publication/2024_yxwang_saq/</link>
+      <link>http://localhost:1313/publication/2024_yxwang_saq/</link>
       <pubDate>Fri, 05 Jul 2024 11:22:26 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_yxwang_saq/</guid>
+      <guid>http://localhost:1313/publication/2024_yxwang_saq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media</title>
-      <link>https://yjpeng11.github.io/publication/2024_qqju_mapping/</link>
+      <link>http://localhost:1313/publication/2024_qqju_mapping/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_qqju_mapping/</guid>
+      <guid>http://localhost:1313/publication/2024_qqju_mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broadening the scope: Multiple functional connectivity networks underlying threat conditioning and extinction</title>
-      <link>https://yjpeng11.github.io/publication/2024_cushing_imageneuro/</link>
+      <link>http://localhost:1313/publication/2024_cushing_imageneuro/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_cushing_imageneuro/</guid>
+      <guid>http://localhost:1313/publication/2024_cushing_imageneuro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities</title>
-      <link>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</link>
+      <link>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</guid>
+      <guid>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality</title>
-      <link>https://yjpeng11.github.io/publication/2024_dlu_personality/</link>
+      <link>http://localhost:1313/publication/2024_dlu_personality/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_dlu_personality/</guid>
+      <guid>http://localhost:1313/publication/2024_dlu_personality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns of saliency and semantic features distinguish gaze of expert and novice viewers of surveillance footage</title>
-      <link>https://yjpeng11.github.io/publication/2024_peng_cctv/</link>
+      <link>http://localhost:1313/publication/2024_peng_cctv/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_peng_cctv/</guid>
+      <guid>http://localhost:1313/publication/2024_peng_cctv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psychodynamic Profiles of Major Depressive Disorder and Generalized Anxiety Disorder in China</title>
-      <link>https://yjpeng11.github.io/publication/2024_xu_opd/</link>
+      <link>http://localhost:1313/publication/2024_xu_opd/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_xu_opd/</guid>
+      <guid>http://localhost:1313/publication/2024_xu_opd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Psychological Research Methods ​​</title>
-      <link>https://yjpeng11.github.io/courses/psychmethods/</link>
+      <link>http://localhost:1313/courses/psychmethods/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/courses/psychmethods/</guid>
+      <guid>http://localhost:1313/courses/psychmethods/</guid>
       <description>&lt;p&gt;Advanced Psychological Research Methods&lt;/p&gt;
 &lt;p&gt;Overview&lt;/p&gt;
 &lt;ul&gt;
@@ -176,9 +204,9 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>Psychopathology ​​</title>
-      <link>https://yjpeng11.github.io/courses/psychopathology/</link>
+      <link>http://localhost:1313/courses/psychopathology/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/courses/psychopathology/</guid>
+      <guid>http://localhost:1313/courses/psychopathology/</guid>
       <description>&lt;p&gt;Psychopathology&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -219,17 +247,17 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
-      <link>https://yjpeng11.github.io/publication/2023_peng_engineering/</link>
+      <link>http://localhost:1313/publication/2023_peng_engineering/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_peng_engineering/</guid>
+      <guid>http://localhost:1313/publication/2023_peng_engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinese Version of the Social Anxiety Questionnaire – Adults (CSAQ-A) ​​</title>
-      <link>https://yjpeng11.github.io/resources/2023csaq-a/</link>
+      <link>http://localhost:1313/resources/2023csaq-a/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2023csaq-a/</guid>
+      <guid>http://localhost:1313/resources/2023csaq-a/</guid>
       <description>&lt;p&gt;CSAQ-A measures social anxiety traits from five dimensions:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;F1. Speaking in public/talking with people in authority
 
@@ -253,57 +281,57 @@ F5. Interactions with strangers
     
     <item>
       <title>Mapping between the Human Visual System and Two-stream DCNNs in Action Representation</title>
-      <link>https://yjpeng11.github.io/publication/2023_peng_cogsci/</link>
+      <link>http://localhost:1313/publication/2023_peng_cogsci/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_peng_cogsci/</guid>
+      <guid>http://localhost:1313/publication/2023_peng_cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The mechanism of emotion processing and intention inference in social anxiety disorder based on biological motion</title>
-      <link>https://yjpeng11.github.io/publication/2023_peng_sadperspect/</link>
+      <link>http://localhost:1313/publication/2023_peng_sadperspect/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_peng_sadperspect/</guid>
+      <guid>http://localhost:1313/publication/2023_peng_sadperspect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MEWL：Few-shot multimodal word learning with referential uncertainty</title>
-      <link>https://yjpeng11.github.io/publication/2023_jiang_mewl/</link>
+      <link>http://localhost:1313/publication/2023_jiang_mewl/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_jiang_mewl/</guid>
+      <guid>http://localhost:1313/publication/2023_jiang_mewl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Threat neurocircuitry predicts the development of anxiety and depression symptoms in a longitudinal study</title>
-      <link>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</link>
+      <link>http://localhost:1313/publication/2023_peng_bpcnni/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</guid>
+      <guid>http://localhost:1313/publication/2023_peng_bpcnni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion processing and intention inference in social anxiety disorder</title>
-      <link>https://yjpeng11.github.io/research/2022sad/</link>
+      <link>http://localhost:1313/research/2022sad/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2022sad/</guid>
+      <guid>http://localhost:1313/research/2022sad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://yjpeng11.github.io/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/people/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/research/2021neurosubstrate/</link>
+      <link>http://localhost:1313/research/2021neurosubstrate/</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2021neurosubstrate/</guid>
+      <guid>http://localhost:1313/research/2021neurosubstrate/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -376,49 +404,49 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>A unified psychological space for human perception of physical and social events</title>
-      <link>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</link>
+      <link>http://localhost:1313/publication/2021_shu_cogpsy/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_shu_cogpsy/</guid>
+      <guid>http://localhost:1313/publication/2021_shu_cogpsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infant perception of causal motion produced by humans and inanimate objects</title>
-      <link>https://yjpeng11.github.io/publication/2021_peng_infant/</link>
+      <link>http://localhost:1313/publication/2021_peng_infant/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_peng_infant/</guid>
+      <guid>http://localhost:1313/publication/2021_peng_infant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
-      <link>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</link>
+      <link>http://localhost:1313/publication/2021_peng_bpcnni/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</guid>
+      <guid>http://localhost:1313/publication/2021_peng_bpcnni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Code for Semantic Relations Predicts Neural Similarity during Analogical Reasoning</title>
-      <link>https://yjpeng11.github.io/publication/2020_chiang_joc/</link>
+      <link>http://localhost:1313/publication/2020_chiang_joc/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2020_chiang_joc/</guid>
+      <guid>http://localhost:1313/publication/2020_chiang_joc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring biological motion perception in two-stream convolutional neural networks</title>
-      <link>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</link>
+      <link>http://localhost:1313/publication/2021_peng_cnnvisres/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_peng_cnnvisres/</guid>
+      <guid>http://localhost:1313/publication/2021_peng_cnnvisres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -491,9 +519,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Causal actions enhance perception of continuous body movements​</title>
-      <link>https://yjpeng11.github.io/demos/2020causalillusion/</link>
+      <link>http://localhost:1313/demos/2020causalillusion/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/demos/2020causalillusion/</guid>
+      <guid>http://localhost:1313/demos/2020causalillusion/</guid>
       <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal actions enhance perception of continuous body movements&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Cite：&lt;/p&gt;
 &lt;p&gt;Peng, Y., Ichien, N., &amp;amp; Lu, H. (2020). Causal actions enhance perception of continuous body movements. Cognition, 194, 104060.&lt;/p&gt;
@@ -526,49 +554,49 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Causal actions enhance perception of continuous body movements</title>
-      <link>https://yjpeng11.github.io/publication/2020_peng_cognition/</link>
+      <link>http://localhost:1313/publication/2020_peng_cognition/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2020_peng_cognition/</guid>
+      <guid>http://localhost:1313/publication/2020_peng_cognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The hierarchical representation of human actions and convolutional neural networks</title>
-      <link>https://yjpeng11.github.io/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The hierarchical representation of human actions and convolutional neural networks</title>
-      <link>https://yjpeng11.github.io/research/2019actioncnn/</link>
+      <link>http://localhost:1313/research/2019actioncnn/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2019actioncnn/</guid>
+      <guid>http://localhost:1313/research/2019actioncnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of Continuous Movements from Causal Actions</title>
-      <link>https://yjpeng11.github.io/publication/2019_peng_cogsci-causal/</link>
+      <link>http://localhost:1313/publication/2019_peng_cogsci-causal/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2019_peng_cogsci-causal/</guid>
+      <guid>http://localhost:1313/publication/2019_peng_cogsci-causal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion or emotion: Infants discriminate emotional biological motion based on low-level visual information</title>
-      <link>https://yjpeng11.github.io/publication/2019_ogren_infant/</link>
+      <link>http://localhost:1313/publication/2019_ogren_infant/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2019_ogren_infant/</guid>
+      <guid>http://localhost:1313/publication/2019_ogren_infant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceiving causal human actions</title>
-      <link>https://yjpeng11.github.io/post/jupyter/</link>
+      <link>http://localhost:1313/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/jupyter/</guid>
+      <guid>http://localhost:1313/post/jupyter/</guid>
       <description>&lt;!-- ```python
 from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
@@ -635,9 +663,9 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     
     <item>
       <title>Perceiving causal human actions</title>
-      <link>https://yjpeng11.github.io/research/2019causality/</link>
+      <link>http://localhost:1313/research/2019causality/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2019causality/</guid>
+      <guid>http://localhost:1313/research/2019causality/</guid>
       <description>&lt;!-- ```python
 from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
@@ -704,9 +732,9 @@ This post was created with Jupyter. The orginal files can be found at https://gi
     
     <item>
       <title>Slides</title>
-      <link>https://yjpeng11.github.io/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -829,49 +857,49 @@ $$&lt;/p&gt;
     
     <item>
       <title>Brain-computer interface for cyberpsychology</title>
-      <link>https://yjpeng11.github.io/publication/2019_peng_bci/</link>
+      <link>http://localhost:1313/publication/2019_peng_bci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2019_peng_bci/</guid>
+      <guid>http://localhost:1313/publication/2019_peng_bci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intact perception of coherent motion, dynamic rigid form, and biological motion in chronic schizophrenia</title>
-      <link>https://yjpeng11.github.io/publication/2018_keane_schizo/</link>
+      <link>http://localhost:1313/publication/2018_keane_schizo/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2018_keane_schizo/</guid>
+      <guid>http://localhost:1313/publication/2018_keane_schizo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infant perception of sex differences in biological motion displays</title>
-      <link>https://yjpeng11.github.io/publication/2018_tsang_infant/</link>
+      <link>http://localhost:1313/publication/2018_tsang_infant/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2018_tsang_infant/</guid>
+      <guid>http://localhost:1313/publication/2018_tsang_infant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
-      <link>https://yjpeng11.github.io/publication/2017_shu_aerial/</link>
+      <link>http://localhost:1313/publication/2017_shu_aerial/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2017_shu_aerial/</guid>
+      <guid>http://localhost:1313/publication/2017_shu_aerial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual differences in high-level biological motion tasks correlate with autistic traits</title>
-      <link>https://yjpeng11.github.io/publication/2016_van_autism/</link>
+      <link>http://localhost:1313/publication/2016_van_autism/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2016_van_autism/</guid>
+      <guid>http://localhost:1313/publication/2016_van_autism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal Action: A Fundamental Constraint on Perception of Bodily Movements ​</title>
-      <link>https://yjpeng11.github.io/demos/2017causalaction/</link>
+      <link>http://localhost:1313/demos/2017causalaction/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/demos/2017causalaction/</guid>
+      <guid>http://localhost:1313/demos/2017causalaction/</guid>
       <description>&lt;p&gt;This page contains demos of the study &amp;ldquo;Causal Action: A Fundamental Constraint on Perception of Bodily Movements&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Cite：&lt;/p&gt;
 &lt;p&gt;Peng Y, Thurman S, Lu H. Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements. Psychol Sci. 2017 Jun;28(6):798-807. doi: 10.1177/0956797617697739. Epub 2017 May 8. PMID: 28481714.&lt;/p&gt;
@@ -936,57 +964,57 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
     
     <item>
       <title>Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements</title>
-      <link>https://yjpeng11.github.io/publication/2017_peng_psysci/</link>
+      <link>http://localhost:1313/publication/2017_peng_psysci/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2017_peng_psysci/</guid>
+      <guid>http://localhost:1313/publication/2017_peng_psysci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yujia Peng [yujia_peng[at]pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/example/</link>
+      <link>http://localhost:1313/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/example/</guid>
+      <guid>http://localhost:1313/project/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qianqian Ju [junoq[at]pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/external-project/</link>
+      <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/external-project/</guid>
+      <guid>http://localhost:1313/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attention-dependent early cortical suppression contributes to crowding</title>
-      <link>https://yjpeng11.github.io/publication/2014_chen_jon/</link>
+      <link>http://localhost:1313/publication/2014_chen_jon/</link>
       <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2014_chen_jon/</guid>
+      <guid>http://localhost:1313/publication/2014_chen_jon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuxi Wang [yuxi.wang[at]stu.pku.edu.cn]</title>
-      <link>https://yjpeng11.github.io/project/yuxi/</link>
+      <link>http://localhost:1313/project/yuxi/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/project/yuxi/</guid>
+      <guid>http://localhost:1313/project/yuxi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brain-Computer Interface for Cyberpsychology: Components, Methods, and Applications</title>
-      <link>https://yjpeng11.github.io/publication/2013_lupeng_bci/</link>
+      <link>http://localhost:1313/publication/2013_lupeng_bci/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2013_lupeng_bci/</guid>
+      <guid>http://localhost:1313/publication/2013_lupeng_bci/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://yjpeng11.github.io/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
     </item>
     
@@ -1000,9 +1028,9 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
     
     <item>
       <title> Spatial summation revealed in the earliest visual evoked component C1 and the effect of attention on its linearity</title>
-      <link>https://yjpeng11.github.io/publication/2016_chen_joneurophy/</link>
+      <link>http://localhost:1313/publication/2016_chen_joneurophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2016_chen_joneurophy/</guid>
+      <guid>http://localhost:1313/publication/2016_chen_joneurophy/</guid>
       <description></description>
     </item>
     

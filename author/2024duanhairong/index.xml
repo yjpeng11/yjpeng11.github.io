@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024DuanHairong | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/2024duanhairong/</link>
-      <atom:link href="https://yjpeng11.github.io/author/2024duanhairong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/2024duanhairong/</link>
+      <atom:link href="http://localhost:1313/author/2024duanhairong/index.xml" rel="self" type="application/rss+xml" />
     <description>2024DuanHairong</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2024DuanHairong</title>
-      <link>https://yjpeng11.github.io/author/2024duanhairong/</link>
+      <link>http://localhost:1313/author/2024duanhairong/</link>
     </image>
     
     <item>
       <title>Hairong Duan 段海容</title>
-      <link>https://yjpeng11.github.io/author/hairong-duan-%E6%AE%B5%E6%B5%B7%E5%AE%B9/</link>
+      <link>http://localhost:1313/author/hairong-duan-%E6%AE%B5%E6%B5%B7%E5%AE%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/author/hairong-duan-%E6%AE%B5%E6%B5%B7%E5%AE%B9/</guid>
+      <guid>http://localhost:1313/author/hairong-duan-%E6%AE%B5%E6%B5%B7%E5%AE%B9/</guid>
       <description>&lt;p&gt;Good day! I&amp;rsquo;m Harper~ Every time I see the social news and tragic events related to mental illness such as depression, I feel heartache and pity for these patients. Therefore, I want to combine the knowledge of biology and psychology to further explore the pathogenesis behind mental illness. I&amp;rsquo;ll be happy to help answer any questions you might have.&lt;/p&gt;
 </description>
     </item>

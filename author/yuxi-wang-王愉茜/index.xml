@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuxi Wang 王愉茜 | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
-      <atom:link href="https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
+      <atom:link href="http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxi Wang 王愉茜</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/avatar_hu3a936146b084f166e431f1aee8d5035f_627319_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/avatar_hu3a936146b084f166e431f1aee8d5035f_627319_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuxi Wang 王愉茜</title>
-      <link>https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
+      <link>http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
     </image>
     
     <item>
       <title>Yuxi Wang 王愉茜</title>
-      <link>https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
+      <link>http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</guid>
+      <guid>http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/</guid>
       <description>&lt;p&gt;Yuxi is broadly interested in translating significant findings in neuroscience to clinical practice, to assist in building objective diagnostic and treatment strategies for anxiety and depression. To promote this process, my work exploits cognitive behavioral experiments, neuroimaging, computational modeling, and machine learning algorithms, intending to better understand the etiology and pathophysiology underlying anxiety and depression and quantify cognitive and neural dysfunction.&lt;/p&gt;
 </description>
     </item>

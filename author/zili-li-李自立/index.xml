@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zili Li 李自立 | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
-      <atom:link href="https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
+      <atom:link href="http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>Zili Li 李自立</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/avatar_hu24bf4f6b5f0867ba968cc7f0bd2972e3_319558_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/avatar_hu24bf4f6b5f0867ba968cc7f0bd2972e3_319558_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zili Li 李自立</title>
-      <link>https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
+      <link>http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
     </image>
     
     <item>
       <title>Zili Li 李自立</title>
-      <link>https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
+      <link>http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</guid>
+      <guid>http://localhost:1313/author/zili-li-%E6%9D%8E%E8%87%AA%E7%AB%8B/</guid>
       <description>&lt;p&gt;As a student studying in clinical psychology in PKU, I not only learn how to do psychological counseling but also learn how to keep myself happy and healthy. It&amp;rsquo;s so much fun to play badminton with friends!&lt;/p&gt;
 </description>
     </item>

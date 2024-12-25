@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin P. Paulus | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/martin-p.-paulus/</link>
-      <atom:link href="https://yjpeng11.github.io/author/martin-p.-paulus/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/martin-p.-paulus/</link>
+      <atom:link href="http://localhost:1313/author/martin-p.-paulus/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin P. Paulus</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Martin P. Paulus</title>
-      <link>https://yjpeng11.github.io/author/martin-p.-paulus/</link>
+      <link>http://localhost:1313/author/martin-p.-paulus/</link>
     </image>
     
     <item>
       <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
-      <link>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</link>
+      <link>http://localhost:1313/publication/2021_peng_bpcnni/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</guid>
+      <guid>http://localhost:1313/publication/2021_peng_bpcnni/</guid>
       <description></description>
     </item>
     

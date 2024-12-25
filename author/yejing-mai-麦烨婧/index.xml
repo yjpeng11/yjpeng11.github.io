@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yejing Mai 麦烨婧 | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
-      <atom:link href="https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
+      <atom:link href="http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/index.xml" rel="self" type="application/rss+xml" />
     <description>Yejing Mai 麦烨婧</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/avatar_huf8cf622fb45b2076db426470a108bf5d_716295_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/avatar_huf8cf622fb45b2076db426470a108bf5d_716295_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yejing Mai 麦烨婧</title>
-      <link>https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
+      <link>http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
     </image>
     
     <item>
       <title>Yejing Mai 麦烨婧</title>
-      <link>https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
+      <link>http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</guid>
+      <guid>http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/</guid>
       <description>&lt;p&gt;I am currently in my second year of graduate studies. My research focuses on employing textual analysis to comprehend the distinctions in expression between individuals with social anxiety and the general population. Outside of academia, I enjoy drawing and dancing.&lt;/p&gt;
 </description>
     </item>

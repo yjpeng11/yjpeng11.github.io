@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengyue Wu | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/author/mengyue-wu/</link>
-      <atom:link href="https://yjpeng11.github.io/author/mengyue-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mengyue-wu/</link>
+      <atom:link href="http://localhost:1313/author/mengyue-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyue Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mengyue Wu</title>
-      <link>https://yjpeng11.github.io/author/mengyue-wu/</link>
+      <link>http://localhost:1313/author/mengyue-wu/</link>
     </image>
     
     <item>
       <title>Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media</title>
-      <link>https://yjpeng11.github.io/publication/2024_qqju_mapping/</link>
+      <link>http://localhost:1313/publication/2024_qqju_mapping/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/publication/2024_qqju_mapping/</guid>
+      <guid>http://localhost:1313/publication/2024_qqju_mapping/</guid>
       <description></description>
     </item>
     

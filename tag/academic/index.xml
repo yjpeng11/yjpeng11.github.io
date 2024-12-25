@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/tag/academic/</link>
-      <atom:link href="https://yjpeng11.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/academic/</link>
+      <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://yjpeng11.github.io/tag/academic/</link>
+      <link>http://localhost:1313/tag/academic/</link>
     </image>
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/research/2021neurosubstrate/</link>
+      <link>http://localhost:1313/research/2021neurosubstrate/</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/research/2021neurosubstrate/</guid>
+      <guid>http://localhost:1313/research/2021neurosubstrate/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -89,9 +89,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Neurobiological substrates of mental disorders and potential treatments</title>
-      <link>https://yjpeng11.github.io/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)

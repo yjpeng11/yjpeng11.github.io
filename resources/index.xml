@@ -2,21 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | Yujia Peng PKU</title>
-    <link>https://yjpeng11.github.io/resources/</link>
-      <atom:link href="https://yjpeng11.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/resources/</link>
+      <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Resources</title>
-      <link>https://yjpeng11.github.io/resources/</link>
+      <link>http://localhost:1313/resources/</link>
     </image>
     
     <item>
+      <title>Social Artificial Intelligence Picture System (SAIPS)  ​​</title>
+      <link>http://localhost:1313/resources/2024saips/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/2024saips/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Social Artificial Intelligence Picture System (SAIPS)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt; We developed the Social Artificial Intelligence Picture System (SAIPS), based on a generative multimodal artificial intelligence model. The system contains 279 social scenario images and 118 control images, generated using AI tools such as Stable Diffusion-XL and DALL-E 2. The pictures were generated along three theoretical dimensions grounded in existing theories related to social anxiety:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emotional Expression:&lt;/strong&gt; Pictures depict emotional expressions categorized as negative, neutral, or positive.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Social Dominance:&lt;/strong&gt; Pictures include scenarios with a dominant individual (i.e., one agent presenting a sense of being more important or stronger than other agents in the picture, or than the observer) or otherwise (e.g., peer-like relationships, or a single agent).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Eye Contact:&lt;/strong&gt; Some pictures involve direct eye contact between characters and the observer, while others do not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All pictures were uniformly resized to 1024×768 pixels to maintain consistency across the dataset.&lt;/p&gt;
+&lt;p&gt;In addition, SAIPS includes five subjective ratings: Social Anxiety Rating (SAR), Valence, Arousal, Involvement, and Picture-Text Consistency. These ratings offer a more comprehensive analysis of how images influence individuals&amp;rsquo; psychological responses. The system also provides objective ratings, including image descriptions, scene characteristics, and the number of characters present, offering a multi-layered data set for research purposes.&lt;/p&gt;
+&lt;p&gt;To explore specific response patterns to social scenarios, SAIPS includes 118 control images without people, which help enhance the system&amp;rsquo;s accuracy in predicting social anxiety traits. SAIPS serves as a valuable resource for research on social anxiety, mental health, and the development of AI-based diagnostic and therapeutic tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt; Ju, Q., Xu, Z., Chen, Z., Fan, J., Zhang, H., &amp;amp; Peng, Y. (2025). Screening Social Anxiety with the Social Artificial Intelligence Picture System. Journal of Anxiety Disorders, 109, 102955. &lt;a href=&#34;https://doi.org/10.1016/j.janxdis.2024.102955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.janxdis.2024.102955&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agreement:&lt;/strong&gt; Researchers requesting access to the SAIPS database must sign the SAIPS Release Agreement. Please review the agreement details below. After signing, send a scanned copy to &lt;a href=&#34;mailto:junoq0420@163.com&#34;&gt;junoq0420@163.com&lt;/a&gt; and &lt;a href=&#34;mailto:yujia_peng@pku.edu.cn&#34;&gt;yujia_peng@pku.edu.cn&lt;/a&gt; with the subject line “SAIPS request.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/yjpeng11/yjpeng11.github.io/refs/heads/main/resources/2024saips/Agreement-SAIPS-PKU-JU-PENG-2024.pdf&#34; download=&#34;Agreement-SAIPS-PKU-JU-PENG-2024.pdf&#34;&gt;Download the SAIPS Release Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Terms and Conditions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;For Academic Use Only:&lt;/strong&gt; The SAIPS dataset is strictly for academic and research purposes and must not be used for commercial purposes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publication Requirements:&lt;/strong&gt; Any paper or report using SAIPS images must include the citation of the article mentioned above.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No Redistribution or Modification:&lt;/strong&gt; Redistribution, publication, copying, or modification of the SAIPS dataset is prohibited without prior written approval from the SAIPS Principal Investigator.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>recommended reading list, papers, books  ​​</title>
-      <link>https://yjpeng11.github.io/resources/2024recommend/</link>
+      <link>http://localhost:1313/resources/2024recommend/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2024recommend/</guid>
+      <guid>http://localhost:1313/resources/2024recommend/</guid>
       <description>&lt;p&gt;This curated selection of books and articles offers thought-provoking ideas and valuable insights across a variety of topics.
 Whether you&amp;rsquo;re looking to expand your knowledge, explore new perspectives, or simply find inspiration,
 these resources are sure to enrich your understanding and spark your curiosity.This list has something for everyone.
@@ -26,9 +60,9 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>Human Action Photorealistic and Point-light Videos (HAPPV)  ​​</title>
-      <link>https://yjpeng11.github.io/resources/2024cnnfmri/</link>
+      <link>http://localhost:1313/resources/2024cnnfmri/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2024cnnfmri/</guid>
+      <guid>http://localhost:1313/resources/2024cnnfmri/</guid>
       <description>&lt;p&gt;HAPPV includes photorealistic and point-light videos of 36 human actions:&lt;/p&gt;
 &lt;p&gt;Action stimuli used in the experiment were generated from the Carnegie Mellon University Motion Capture Database (&lt;a href=&#34;https://mocap.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mocap.cs.cmu.edu&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;As in (Dittrich, 1993), action categories were grouped into three semantic classes: Locomotory action (jumping, running, and walking), Instrumental action (ball bouncing, playing an instrument, and golf swing), and Social action (dancing, greeting, and showing directions)&lt;/p&gt;
@@ -39,9 +73,9 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
     
     <item>
       <title>Chinese Version of the Social Anxiety Questionnaire – Adults (CSAQ-A) ​​</title>
-      <link>https://yjpeng11.github.io/resources/2023csaq-a/</link>
+      <link>http://localhost:1313/resources/2023csaq-a/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/resources/2023csaq-a/</guid>
+      <guid>http://localhost:1313/resources/2023csaq-a/</guid>
       <description>&lt;p&gt;CSAQ-A measures social anxiety traits from five dimensions:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;F1. Speaking in public/talking with people in authority
 
