@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 7, 2025 --><html lang="en-us" >
+<!-- Last Published: March 25, 2025 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -318,7 +318,7 @@
 <meta property="twitter:image" content="http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Yujia Peng PKU" />
 <meta property="og:url" content="http://localhost:1313/courses/" />
-<meta property="og:title" content="Resources | Yujia Peng PKU" />
+<meta property="og:title" content="Courses | Yujia Peng PKU" />
 <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
@@ -347,7 +347,7 @@
 
 
   
-  <title>Resources | Yujia Peng PKU</title>
+  <title>Courses | Yujia Peng PKU</title>
 
   
   
@@ -428,347 +428,183 @@
   
   
   
+<style>
+   
+  .announcement-bar {
+    background-color: #f8d7da;  
+    color: #721c24;  
+    text-align: center;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
 
+  .announcement-bar button {
+    background-color: transparent;
+    border: none;
+    color: #721c24;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+  .navbar {
+      margin-top: 100px;
+      transition: margin-top 0.3s ease;  
+    }
+</style>
+</head>
 
+<div class="announcement-bar" id="announcement-bar">
+  <span>DACN lab is continuously seeking highly motivated postdoctoral researchers to join our team.<br> 
+    Currently, we have no open Ph.D. position for 2026. <br>
+    We welcome inquiries from research assistants (RAs) interested in gaining valuable experience.<br>
+    
+    </span>
+  <button onclick="closeAnnouncement()">close</button>
+</div>
 
+<div class="page-header header--fixed headroom headroom--top headroom--not-bottom">
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+      <div class="container-xl">
+        <div class="d-none d-lg-inline-flex">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+          <span><i class="fas fa-bars"></i></span>
+        </button>
+        <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+          <ul class="navbar-nav d-md-inline-flex">
+            <li class="nav-item">
+              <a class="nav-link " href="/#about" data-link="Welcome"><span>Welcome</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/research" data-link="Research"><span>Research</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/people" data-link="People"><span>People</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/publication" data-link="Publications"><span>Publications</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/demos" data-link="Demos"><span>Demos</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/news" data-link="Lab news"><span>Lab news</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/resources" data-link="Resources"><span>Resources</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/courses" data-link="Courses"><span>Courses</span></a>
+            </li></ul>
+        </div>
 
-
-
-
-
-
-
-
-
-<header>
-  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-    <div class="container-xl">
-
-      
-      <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Yujia Peng PKU</a>
-      </div>
-      
-
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
-      <span><i class="fas fa-bars"></i></span>
-      </button>
-      
-
-      
-      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Yujia Peng PKU</a>
-      </div>
-      
-
-      
-      
-      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-
-        
-        <ul class="navbar-nav d-md-inline-flex">
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
+        <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
           <li class="nav-item">
-            <a class="nav-link " href="/#about"><span>Welcome</span></a>
+            <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
           </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/research"><span>Research</span></a>
+          <li class="nav-item dropdown theme-dropdown">
+            <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+              <i class="fas fa-moon" aria-hidden="true"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="#" class="dropdown-item js-set-theme-light">
+                <span>Light</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-dark">
+                <span>Dark</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-auto dropdown-item-active">
+                <span>Automatic</span>
+              </a>
+            </div>
           </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/people"><span>People</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/demos"><span>Demos</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/news"><span>Lab news</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/resources"><span>Resources</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link  active" href="/courses"><span>Courses</span></a>
-          </li>
-
-          
-          
-
-        
-
-          
         </ul>
       </div>
+    </nav>
+  </header>
+</div>
 
-      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+<script>
+  
+  const closeTime = localStorage.getItem('announcementCloseTime');
+  const currentTime = new Date().getTime(); 
 
-        
-        
-          
-        
-          
-        
+  if (closeTime) {
+    
+    const timeDifference = currentTime - closeTime;
 
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
+    
+    if (timeDifference < 86400000) {
+      
+      document.getElementById('announcement-bar').style.display = 'none';
+      document.getElementById('navbar-main').style.marginTop = '0px'; 
+    }
+  }
 
-        
-        
-        
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
-        
+  
+  function closeAnnouncement() {
+    const currentTime = new Date().getTime(); 
 
-        
-        
+    
+    localStorage.setItem('announcementCloseTime', currentTime);
 
-      </ul>
+    
+    document.getElementById('announcement-bar').style.display = 'none';
 
-    </div>
-  </nav>
-</header>
+    
+    document.getElementById('navbar-main').style.marginTop = '0px';
+  }
+</script>
+<script>
+  
+  function adjustNavbarMargin() {
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar && navbar) {
+      
+      const announcementHeight = announcementBar.offsetHeight;
+      
+      
+      navbar.style.marginTop = `${announcementHeight}px`;
+    }
+  }
 
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    adjustNavbarMargin();
+    
+    
+    window.addEventListener('resize', adjustNavbarMargin);
+  });
+
+  
+  function closeAnnouncement() {
+    const currentTime = new Date().getTime();
+    localStorage.setItem('announcementCloseTime', currentTime);
+    
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar) announcementBar.style.display = 'none';
+    if (navbar) navbar.style.marginTop = '0';
+  }
+</script>
 
   </div>
 
@@ -799,7 +635,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Resources</h1>
+  <h1>Courses</h1>
 
   
 
@@ -986,6 +822,96 @@
       <a href="/courses/psychopathology/" >
         <img src="/courses/psychopathology/featured_hu9274d160a455af0c500b9b9da21bf20a_3265532_150x0_resize_q75_h2_lanczos_3.webp" height="197" width="150"
             alt="Psychopathology ​​" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/courses/psychassessment/" >Psychological Testing ​​</a>
+    </div>
+
+    
+    <a href="/courses/psychassessment/"  class="summary-link">
+      <div class="article-style">
+        Psychological Testing
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Jan 1, 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      <a href="/courses/psychassessment/" >
+        <img src="/courses/psychassessment/featured_hu10577c968c2bfe8fadbbd032fac7b9a9_2198474_150x0_resize_q75_h2_lanczos.webp" height="66" width="150"
+            alt="Psychological Testing ​​" loading="lazy">
       </a>
     
   </div>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 7, 2025 --><html lang="en-us" >
+<!-- Last Published: March 25, 2025 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -322,7 +322,7 @@
 <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2024-11-05T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2024-12-19T00:00:00&#43;00:00" />
   
 
 
@@ -428,347 +428,129 @@
   
   
   
+<style>
+   
+  .announcement-bar {
+    background-color: #f8d7da;  
+    color: #721c24;  
+    text-align: center;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
 
+  .announcement-bar button {
+    background-color: transparent;
+    border: none;
+    color: #721c24;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
 
+   
+  body {
+    margin-top: 100px;
+  }
+</style>
+</head>
 
+<div class="announcement-bar" id="announcement-bar">
+  <span>DACN lab is continuously seeking highly motivated postdoctoral researchers to join our team. 
+    Currently, we have no open Ph.D. position for 2026. 
+    We welcome inquiries from research assistants (RAs) interested in gaining valuable experience.
+    
+    </span>
+  <button onclick="closeAnnouncement()">close</button>
+</div>
 
+<div class="page-header header--fixed headroom headroom--top headroom--not-bottom">
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+      <div class="container-xl">
+        <div class="d-none d-lg-inline-flex">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+          <span><i class="fas fa-bars"></i></span>
+        </button>
+        <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+          <ul class="navbar-nav d-md-inline-flex">
+            <li class="nav-item">
+              <a class="nav-link " href="/#about" data-link="Welcome"><span>Welcome</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/research" data-link="Research"><span>Research</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/people" data-link="People"><span>People</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/publication" data-link="Publications"><span>Publications</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/demos" data-link="Demos"><span>Demos</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/news" data-link="Lab news"><span>Lab news</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/resources" data-link="Resources"><span>Resources</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/courses" data-link="Courses"><span>Courses</span></a>
+            </li></ul>
+        </div>
 
-
-
-
-
-
-
-
-<header>
-  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-    <div class="container-xl">
-
-      
-      <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Yujia Peng PKU</a>
-      </div>
-      
-
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
-      <span><i class="fas fa-bars"></i></span>
-      </button>
-      
-
-      
-      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Yujia Peng PKU</a>
-      </div>
-      
-
-      
-      
-      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-
-        
-        <ul class="navbar-nav d-md-inline-flex">
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
+        <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
           <li class="nav-item">
-            <a class="nav-link " href="/#about"><span>Welcome</span></a>
+            <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
           </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/research"><span>Research</span></a>
+          <li class="nav-item dropdown theme-dropdown">
+            <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+              <i class="fas fa-moon" aria-hidden="true"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="#" class="dropdown-item js-set-theme-light">
+                <span>Light</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-dark">
+                <span>Dark</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-auto dropdown-item-active">
+                <span>Automatic</span>
+              </a>
+            </div>
           </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/people"><span>People</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/demos"><span>Demos</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/news"><span>Lab news</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/resources"><span>Resources</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/courses"><span>Courses</span></a>
-          </li>
-
-          
-          
-
-        
-
-          
         </ul>
       </div>
+    </nav>
+  </header>
+</div>
 
-      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+<script>
+  
+  if (localStorage.getItem('announcementClosed') === 'true') {
+    document.getElementById('announcement-bar').style.display = 'none'; 
+  }
 
-        
-        
-          
-        
-          
-        
-
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-        
-        
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
-        
-
-        
-        
-
-      </ul>
-
-    </div>
-  </nav>
-</header>
-
+  
+  function closeAnnouncement() {
+    localStorage.setItem('announcementClosed', 'true'); 
+    document.getElementById('announcement-bar').style.display = 'none'; 
+  }
+</script>
 
   </div>
 
@@ -815,6 +597,24 @@
 
   <ul>
     
+    
+      
+      <li><a href="http://localhost:1313/author/wanxin-li-%E6%9D%8E%E5%A9%89%E5%BF%83/">Wanxin Li 李婉心</a></li>
+    
+      
+      <li><a href="http://localhost:1313/author/xin-jiang-%E6%B1%9F%E6%AC%A3/">Xin Jiang 江欣</a></li>
+    
+      
+      <li><a href="http://localhost:1313/author/xinyi-he-%E4%BD%95%E6%AC%A3%E6%80%A1/">Xinyi He 何欣怡</a></li>
+    
+      
+      <li><a href="http://localhost:1313/author/yejing-mai-%E9%BA%A6%E7%83%A8%E5%A9%A7/">Yejing Mai 麦烨婧</a></li>
+    
+      
+      <li><a href="http://localhost:1313/author/yiwen-zhang-%E5%BC%A0%E6%BA%A2%E6%96%87/">Yiwen Zhang 张溢文</a></li>
+    
+      
+      <li><a href="http://localhost:1313/author/yujia-peng-%E5%BD%AD%E7%8E%89%E4%BD%B3/">Yujia Peng 彭玉佳</a></li>
     
       
       <li><a href="http://localhost:1313/author/yuxi-wang-%E7%8E%8B%E6%84%89%E8%8C%9C/">Yuxi Wang 王愉茜</a></li>

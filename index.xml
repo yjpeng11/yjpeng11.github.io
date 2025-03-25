@@ -67,6 +67,25 @@
     </item>
     
     <item>
+      <title>A psychologically interpretable artificial intelligence framework for the screening of loneliness, depression, and anxiety</title>
+      <link>http://localhost:1313/publication/2025_liu_lda-appliedpsych/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025_liu_lda-appliedpsych/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A task generation method and system.</title>
       <link>http://localhost:1313/publication/2024_peng_patent/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
@@ -1038,6 +1057,51 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2016_chen_joneurophy/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Psychological Testing ​​</title>
+      <link>http://localhost:1313/courses/psychassessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/psychassessment/</guid>
+      <description>&lt;p&gt;Advanced Psychological Research Methods&lt;/p&gt;
+&lt;p&gt;Overview&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Welcome to the course of Psychological Testing!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The basic objectives of this course are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1) To introduce the basic concepts, theories and methods of psychometrics;&lt;/li&gt;
+&lt;li&gt;(2) To develop students&amp;rsquo; practical and research skills in the field of psychometrics.&lt;/li&gt;
+&lt;li&gt;(3) To advance the understanding of the interdisciplinary aspects of psychometrics and artificial intelligence, and to cope with the continuous evolution of the discipline that accompanies the development of time and technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Psychometrics is an ever-evolving field, and the scope and depth of its applications are expanding with the advancement of science and technology and the development of society. Through the study of this course, students will be able to master the basic knowledge and skills of psychometrics and lay a solid foundation for their future study and work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Syllabus&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementation and Attributes of Psychological Testing&lt;/li&gt;
+&lt;li&gt;Origins and Developments of Psychological Testing&lt;/li&gt;
+&lt;li&gt;Norms and Reliability&lt;/li&gt;
+&lt;li&gt;Item analysis and Factor analysis&lt;/li&gt;
+&lt;li&gt;Validity and Test Construction&lt;/li&gt;
+&lt;li&gt;Intelligence testing&lt;/li&gt;
+&lt;li&gt;Achievement and Ability Testing&lt;/li&gt;
+&lt;li&gt;Personality Testing and Projective Techniques&lt;/li&gt;
+&lt;li&gt;Self-Report and Behavioral Assessment of Psychopathology&lt;/li&gt;
+&lt;li&gt;Neuropsychological Testing&lt;/li&gt;
+&lt;li&gt;Interests, Attitudes, and Career Assessment&lt;/li&gt;
+&lt;li&gt;Assessing Special Populations&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence in Psychological Testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gregory, R. J. (2004). Psychological testing: History, principles, and applications. Allyn &amp;amp; Bacon.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

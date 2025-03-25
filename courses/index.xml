@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources | Yujia Peng PKU</title>
+    <title>Courses | Yujia Peng PKU</title>
     <link>http://localhost:1313/courses/</link>
       <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Resources</description>
+    <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Resources</title>
+      <title>Courses</title>
       <link>http://localhost:1313/courses/</link>
     </image>
     
@@ -82,6 +82,51 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Supplemental materials&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Psychological Testing ​​</title>
+      <link>http://localhost:1313/courses/psychassessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/psychassessment/</guid>
+      <description>&lt;p&gt;Advanced Psychological Research Methods&lt;/p&gt;
+&lt;p&gt;Overview&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Welcome to the course of Psychological Testing!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The basic objectives of this course are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1) To introduce the basic concepts, theories and methods of psychometrics;&lt;/li&gt;
+&lt;li&gt;(2) To develop students&amp;rsquo; practical and research skills in the field of psychometrics.&lt;/li&gt;
+&lt;li&gt;(3) To advance the understanding of the interdisciplinary aspects of psychometrics and artificial intelligence, and to cope with the continuous evolution of the discipline that accompanies the development of time and technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Psychometrics is an ever-evolving field, and the scope and depth of its applications are expanding with the advancement of science and technology and the development of society. Through the study of this course, students will be able to master the basic knowledge and skills of psychometrics and lay a solid foundation for their future study and work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Syllabus&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementation and Attributes of Psychological Testing&lt;/li&gt;
+&lt;li&gt;Origins and Developments of Psychological Testing&lt;/li&gt;
+&lt;li&gt;Norms and Reliability&lt;/li&gt;
+&lt;li&gt;Item analysis and Factor analysis&lt;/li&gt;
+&lt;li&gt;Validity and Test Construction&lt;/li&gt;
+&lt;li&gt;Intelligence testing&lt;/li&gt;
+&lt;li&gt;Achievement and Ability Testing&lt;/li&gt;
+&lt;li&gt;Personality Testing and Projective Techniques&lt;/li&gt;
+&lt;li&gt;Self-Report and Behavioral Assessment of Psychopathology&lt;/li&gt;
+&lt;li&gt;Neuropsychological Testing&lt;/li&gt;
+&lt;li&gt;Interests, Attitudes, and Career Assessment&lt;/li&gt;
+&lt;li&gt;Assessing Special Populations&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence in Psychological Testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gregory, R. J. (2004). Psychological testing: History, principles, and applications. Allyn &amp;amp; Bacon.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
