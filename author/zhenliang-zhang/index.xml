@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZHenliang Zhang | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/zhenliang-zhang/</link>
-      <atom:link href="http://localhost:1313/author/zhenliang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/zhenliang-zhang/</link>
+      <atom:link href="https://yjpeng11.github.io/author/zhenliang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>ZHenliang Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ZHenliang Zhang</title>
-      <link>http://localhost:1313/author/zhenliang-zhang/</link>
+      <link>https://yjpeng11.github.io/author/zhenliang-zhang/</link>
     </image>
     
     <item>
       <title>A task generation method and system.</title>
-      <link>http://localhost:1313/publication/2024_peng_patent/</link>
+      <link>https://yjpeng11.github.io/publication/2024_peng_patent/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024_peng_patent/</guid>
+      <guid>https://yjpeng11.github.io/publication/2024_peng_patent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
-      <link>http://localhost:1313/publication/2023_peng_engineering/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_engineering/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_peng_engineering/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_engineering/</guid>
       <description></description>
     </item>
     

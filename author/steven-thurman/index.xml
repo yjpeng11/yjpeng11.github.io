@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Thurman | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/steven-thurman/</link>
-      <atom:link href="http://localhost:1313/author/steven-thurman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/steven-thurman/</link>
+      <atom:link href="https://yjpeng11.github.io/author/steven-thurman/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven Thurman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Steven Thurman</title>
-      <link>http://localhost:1313/author/steven-thurman/</link>
+      <link>https://yjpeng11.github.io/author/steven-thurman/</link>
     </image>
     
     <item>
       <title>Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements</title>
-      <link>http://localhost:1313/publication/2017_peng_psysci/</link>
+      <link>https://yjpeng11.github.io/publication/2017_peng_psysci/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017_peng_psysci/</guid>
+      <guid>https://yjpeng11.github.io/publication/2017_peng_psysci/</guid>
       <description></description>
     </item>
     

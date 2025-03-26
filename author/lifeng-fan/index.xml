@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifeng Fan | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/lifeng-fan/</link>
-      <atom:link href="http://localhost:1313/author/lifeng-fan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/lifeng-fan/</link>
+      <atom:link href="https://yjpeng11.github.io/author/lifeng-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>Lifeng Fan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lifeng Fan</title>
-      <link>http://localhost:1313/author/lifeng-fan/</link>
+      <link>https://yjpeng11.github.io/author/lifeng-fan/</link>
     </image>
     
     <item>
       <title>Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities</title>
-      <link>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</link>
+      <link>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024_wang_cogsci_social_intelligence/</guid>
+      <guid>https://yjpeng11.github.io/publication/2024_wang_cogsci_social_intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions</title>
-      <link>http://localhost:1313/publication/2023_peng_engineering/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_engineering/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_peng_engineering/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of human interaction based on motion trajectories: from aerial videos to decontextualized animations</title>
-      <link>http://localhost:1313/publication/2017_shu_aerial/</link>
+      <link>https://yjpeng11.github.io/publication/2017_shu_aerial/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017_shu_aerial/</guid>
+      <guid>https://yjpeng11.github.io/publication/2017_shu_aerial/</guid>
       <description></description>
     </item>
     

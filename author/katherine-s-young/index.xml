@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katherine S Young | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/katherine-s-young/</link>
-      <atom:link href="http://localhost:1313/author/katherine-s-young/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/katherine-s-young/</link>
+      <atom:link href="https://yjpeng11.github.io/author/katherine-s-young/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine S Young</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Katherine S Young</title>
-      <link>http://localhost:1313/author/katherine-s-young/</link>
+      <link>https://yjpeng11.github.io/author/katherine-s-young/</link>
     </image>
     
     <item>
       <title>Threat neurocircuitry predicts the development of anxiety and depression symptoms in a longitudinal study</title>
-      <link>http://localhost:1313/publication/2023_peng_bpcnni/</link>
+      <link>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_peng_bpcnni/</guid>
+      <guid>https://yjpeng11.github.io/publication/2023_peng_bpcnni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Failure to Identify Robust Latent Variables of Positive or Negative Valence Processing Across Units of Analysis</title>
-      <link>http://localhost:1313/publication/2021_peng_bpcnni/</link>
+      <link>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_peng_bpcnni/</guid>
+      <guid>https://yjpeng11.github.io/publication/2021_peng_bpcnni/</guid>
       <description></description>
     </item>
     

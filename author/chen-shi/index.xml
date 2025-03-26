@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Shi | Yujia Peng PKU</title>
-    <link>http://localhost:1313/author/chen-shi/</link>
-      <atom:link href="http://localhost:1313/author/chen-shi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yjpeng11.github.io/author/chen-shi/</link>
+      <atom:link href="https://yjpeng11.github.io/author/chen-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Shi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Chen Shi</title>
-      <link>http://localhost:1313/author/chen-shi/</link>
+      <link>https://yjpeng11.github.io/author/chen-shi/</link>
     </image>
     
     <item>
       <title>A psychologically interpretable artificial intelligence framework for the screening of loneliness, depression, and anxiety</title>
-      <link>http://localhost:1313/publication/2025_liu_lda-appliedpsych/</link>
+      <link>https://yjpeng11.github.io/publication/2025_liu_lda-appliedpsych/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2025_liu_lda-appliedpsych/</guid>
+      <guid>https://yjpeng11.github.io/publication/2025_liu_lda-appliedpsych/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
