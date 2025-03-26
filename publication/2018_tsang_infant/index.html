@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 25, 2025 --><html lang="en-us" >
+<!-- Last Published: March 26, 2025 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -491,10 +491,10 @@ We found no age-related differences in performance between 4 and 18 months in an
 <style>
    
   .announcement-bar {
-    background-color: #f8d7da;  
-    color: #721c24;  
+    background: linear-gradient(90deg, #D4EDDA, #A8E6CF);  
+    color: #155724;
     text-align: center;
-    padding: 0px;
+    padding: 12px 20px;
     font-size: 16px;
     font-weight: bold;
     position: fixed;
@@ -502,7 +502,10 @@ We found no age-related differences in performance between 4 and 18 months in an
     left: 0;
     width: 100%;
     z-index: 1000;
-  }
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);  
+    border-bottom: 3px solid #28A745;  
+    border-radius: 0 0 10px 10px;  
+}
 
   .announcement-bar button {
     background-color: transparent;
@@ -515,22 +518,14 @@ We found no age-related differences in performance between 4 and 18 months in an
     right: 10px;
     top: 10px;
   }
-
-   
-  body {
-    margin-top: 100px;
-  }
+  .navbar {
+      margin-top: 100px;
+      transition: margin-top 0.3s ease;  
+    }
 </style>
 </head>
 
-<div class="announcement-bar" id="announcement-bar">
-  <span>DACN lab is continuously seeking highly motivated postdoctoral researchers to join our team. 
-    Currently, we have no open Ph.D. position for 2026. 
-    We welcome inquiries from research assistants (RAs) interested in gaining valuable experience.
-    
-    </span>
-  <button onclick="closeAnnouncement()">close</button>
-</div>
+
 
 <div class="page-header header--fixed headroom headroom--top headroom--not-bottom">
   <header>
@@ -570,6 +565,9 @@ We found no age-related differences in performance between 4 and 18 months in an
             </li>
             <li class="nav-item">
               <a class="nav-link " href="/courses" data-link="Courses"><span>Courses</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/joinus" data-link="Joinus"><span>Joinus</span></a>
             </li></ul>
         </div>
 
@@ -601,14 +599,69 @@ We found no age-related differences in performance between 4 and 18 months in an
 
 <script>
   
-  if (localStorage.getItem('announcementClosed') === 'true') {
-    document.getElementById('announcement-bar').style.display = 'none'; 
+  const closeTime = localStorage.getItem('announcementCloseTime');
+  const currentTime = new Date().getTime(); 
+
+  if (closeTime) {
+    
+    const timeDifference = currentTime - closeTime;
+
+    
+    if (timeDifference < 86 | ifshow) {
+      
+      document.getElementById('announcement-bar').style.display = 'none';
+      document.getElementById('navbar-main').style.marginTop = '0px'; 
+    }
   }
 
   
   function closeAnnouncement() {
-    localStorage.setItem('announcementClosed', 'true'); 
-    document.getElementById('announcement-bar').style.display = 'none'; 
+    const currentTime = new Date().getTime(); 
+
+    
+    localStorage.setItem('announcementCloseTime', currentTime);
+
+    
+    document.getElementById('announcement-bar').style.display = 'none';
+
+    
+    document.getElementById('navbar-main').style.marginTop = '0px';
+  }
+</script>
+<script>
+  
+  function adjustNavbarMargin() {
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar && navbar) {
+      
+      const announcementHeight = announcementBar.offsetHeight;
+      
+      
+      navbar.style.marginTop = `${announcementHeight}px`;
+    }
+  }
+
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    adjustNavbarMargin();
+    
+    
+    window.addEventListener('resize', adjustNavbarMargin);
+  });
+
+  
+  function closeAnnouncement() {
+    const currentTime = new Date().getTime();
+    localStorage.setItem('announcementCloseTime', currentTime);
+    
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar) announcementBar.style.display = 'none';
+    if (navbar) navbar.style.marginTop = '0';
   }
 </script>
 

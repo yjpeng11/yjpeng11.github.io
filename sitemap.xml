@@ -770,6 +770,9 @@
     <loc>http://localhost:1313/author/jiayin-xiao-%E8%82%96%E5%98%89%E8%8C%B5/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/joinus/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/news/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
