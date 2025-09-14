@@ -1,0 +1,167 @@
+{{ $show_announcement := site.Params.header.navbar.show_announcement | default false }}
+{{ if $show_announcement }}
+<style>
+  /* 公告栏的样式 */
+  .announcement-bar {
+    background: linear-gradient(90deg, #D4EDDA, #A8E6CF); /* 柔和的渐变绿 */
+    color: #155724;
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* 添加轻微阴影 */
+    border-bottom: 3px solid #28A745; /* 绿色强调线 */
+    border-radius: 0 0 10px 10px; /* 圆角 */
+}
+
+  .announcement-bar button {
+    background-color: transparent;
+    border: none;
+    color: #721c24;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+  .navbar {
+      margin-top: 100px;
+      transition: margin-top 0.3s ease; /* 添加过渡效果 */
+    }
+</style>
+</head>
+<!-- 公告栏 -->
+
+  <div class="announcement-bar" id="announcement-bar">
+    <span>
+      <strong style="font-size: 18px; color: #D8000C;">📢 Recruiting Now!</strong><br>
+      DACN lab is looking for <strong>highly motivated postdoctoral researchers</strong> to join our team. <br>
+      🚫 <span style="color: #A94442;">No open Ph.D. positions for 2026.</span> <br>
+      ✅ Research Assistants (RAs) are welcome to inquire!  
+    </span>
+    <button class="close-btn" onclick="closeAnnouncement()">✖</button>
+  </div>
+{{ end }}
+
+<div class="page-header header--fixed headroom headroom--top headroom--not-bottom">
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+      <div class="container-xl">
+        <div class="d-none d-lg-inline-flex">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+          <span><i class="fas fa-bars"></i></span>
+        </button>
+        <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+          <a class="navbar-brand" href="/">Yujia Peng PKU</a>
+        </div>
+        <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+          <ul class="navbar-nav d-md-inline-flex">
+            {{- range site.Menus.main }}
+            <li class="nav-item">
+              <a class="nav-link " href="{{ .URL | relLangURL }}" data-link="{{ .Name }}"><span>{{- .Name -}}</span></a>
+            </li>
+            {{- end -}}
+          </ul>
+        </div>
+
+        <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+          <li class="nav-item">
+            <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+          </li>
+          <li class="nav-item dropdown theme-dropdown">
+            <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+              <i class="fas fa-moon" aria-hidden="true"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="#" class="dropdown-item js-set-theme-light">
+                <span>Light</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-dark">
+                <span>Dark</span>
+              </a>
+              <a href="#" class="dropdown-item js-set-theme-auto dropdown-item-active">
+                <span>Automatic</span>
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+</div>
+
+<script>
+  // 检查公告栏是否已关闭过，并且是否超过1天
+  const closeTime = localStorage.getItem('announcementCloseTime');
+  const currentTime = new Date().getTime(); // 当前时间（毫秒）
+
+  if (closeTime) {
+    // 如果存在关闭时间，计算距离当前时间的差值
+    const timeDifference = currentTime - closeTime;
+
+    // 如果距离关闭时间超过1天（86400000 毫秒），则重新显示公告栏
+    if (timeDifference < 86400000) {
+      // 如果没有超过1天，则隐藏公告栏
+      document.getElementById('announcement-bar').style.display = 'none';
+      document.getElementById('navbar-main').style.marginTop = '0px'; // 隐藏公告栏后，调整导航栏的上边距
+    }
+  }
+
+  // 关闭公告栏并设置标记
+  function closeAnnouncement() {
+    const currentTime = new Date().getTime(); // 获取当前时间
+
+    // 保存公告栏关闭时间
+    localStorage.setItem('announcementCloseTime', currentTime);
+
+    // 隐藏公告栏
+    document.getElementById('announcement-bar').style.display = 'none';
+
+    // 调整导航栏的上边距，去掉公告栏所占空间
+    document.getElementById('navbar-main').style.marginTop = '0px';
+  }
+</script>
+<script>
+  // 动态设置导航栏间距的函数
+  function adjustNavbarMargin() {
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar && navbar) {
+      // 获取公告栏的实际高度
+      const announcementHeight = announcementBar.offsetHeight;
+      
+      // 设置导航栏的间距
+      navbar.style.marginTop = `${announcementHeight}px`;
+    }
+  }
+
+  // 页面加载时执行
+  document.addEventListener('DOMContentLoaded', function() {
+    // 初始调整
+    adjustNavbarMargin();
+    
+    // 窗口变化时重新调整（可选）
+    window.addEventListener('resize', adjustNavbarMargin);
+  });
+
+  // 关闭公告栏时移除间距
+  function closeAnnouncement() {
+    const currentTime = new Date().getTime();
+    localStorage.setItem('announcementCloseTime', currentTime);
+    
+    const announcementBar = document.getElementById('announcement-bar');
+    const navbar = document.getElementById('navbar-main');
+    
+    if (announcementBar) announcementBar.style.display = 'none';
+    if (navbar) navbar.style.marginTop = '0';
+  }
+</script>
