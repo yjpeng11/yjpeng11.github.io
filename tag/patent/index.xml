@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patent | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/patent/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/patent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patent</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Patent</title>
+      <link>https://yjpeng11.github.io/tag/patent/</link>
+    </image>
+    
+    <item>
+      <title>图片生成方法、显示方法、设备、存储介质及程序产品 (Image Generation Method, Display Method, Device, Storage Medium and Program Product)</title>
+      <link>https://yjpeng11.github.io/publication/2025_ju_patent/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2025_ju_patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种居家养老自主智能机器人系统及构建方法 (A Home-Based Elderly Care Autonomous Intelligent Robot System and Construction Method)</title>
+      <link>https://yjpeng11.github.io/publication/2024_zhenliang_patent/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2024_zhenliang_patent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomous System | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/autonomous-system/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/autonomous-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autonomous System</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Autonomous System</title>
+      <link>https://yjpeng11.github.io/tag/autonomous-system/</link>
+    </image>
+    
+    <item>
+      <title>一种居家养老自主智能机器人系统及构建方法 (A Home-Based Elderly Care Autonomous Intelligent Robot System and Construction Method)</title>
+      <link>https://yjpeng11.github.io/publication/2024_zhenliang_patent/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2024_zhenliang_patent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

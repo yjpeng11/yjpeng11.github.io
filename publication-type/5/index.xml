@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/publication-type/5/</link>
+      <atom:link href="https://yjpeng11.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>5</title>
+      <link>https://yjpeng11.github.io/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>通用人工智能：标准、评级、测试与架构</title>
+      <link>https://yjpeng11.github.io/publication/2025_zhu_tongtestbook/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2025_zhu_tongtestbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

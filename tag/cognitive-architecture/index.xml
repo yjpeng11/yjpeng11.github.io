@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Architecture | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/cognitive-architecture/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/cognitive-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Architecture</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cognitive Architecture</title>
+      <link>https://yjpeng11.github.io/tag/cognitive-architecture/</link>
+    </image>
+    
+    <item>
+      <title>A Mathematical Formulation of AGI in the (C, U, V) Framework</title>
+      <link>https://yjpeng11.github.io/publication/2025_he_cuvengineering/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2025_he_cuvengineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>通用人工智能：标准、评级、测试与架构</title>
+      <link>https://yjpeng11.github.io/publication/2025_zhu_tongtestbook/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2025_zhu_tongtestbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

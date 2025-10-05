@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial General Intelligence | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/artificial-general-intelligence/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/artificial-general-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial General Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial General Intelligence</title>
+      <link>https://yjpeng11.github.io/tag/artificial-general-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>A Mathematical Formulation of AGI in the (C, U, V) Framework</title>
+      <link>https://yjpeng11.github.io/publication/2025_he_cuvengineering/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2025_he_cuvengineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
