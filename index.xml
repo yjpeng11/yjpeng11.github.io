@@ -13,26 +13,6 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://yjpeng11.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ability decomposition and difficulty quantification of visual tasks: Towards systematic evaluations of artificial general intelligence</title>
       <link>https://yjpeng11.github.io/publication/2025_cui_tal/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
@@ -339,7 +319,9 @@ Access the full list here: &lt;a href=&#34;https://docs.qq.com/sheet/DUUhVcWRUa0
 &lt;li&gt;Week 14 Understanding personality disorders&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Supplemental materials&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Additional learning materials include videos of Psychiatric diagnosis made by our teaching assistant Hanyu Peng. Links at: &lt;a href=&#34;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;amp;si=DQo8_RLthVoflQHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLa3WmTo5sK-rm9my_ELY1QF74MYoIFOPT&amp;si=DQo8_RLthVoflQHQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.notion.so/3753f20f75bd80828f3ff43f6290afb5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.notion.so/3753f20f75bd80828f3ff43f6290afb5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1091,9 +1073,9 @@ An example action video in Experiment 2, in which motion of GPS dot movements wa
     
     <item>
       <title></title>
-      <link>https://yjpeng11.github.io/admin/config.yml</link>
+      <link>https://yjpeng11.github.io/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjpeng11.github.io/admin/config.yml</guid>
+      <guid>https://yjpeng11.github.io/admin/</guid>
       <description></description>
     </item>
     

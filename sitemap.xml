@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yjpeng11.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yjpeng11.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://yjpeng11.github.io/publication-type/2/</loc>
     <lastmod>2025-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1025,6 +1017,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yjpeng11.github.io/author/qing-yu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yjpeng11.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yjpeng11.github.io/author/renhe-jia-%E8%B4%BE%E4%BB%81%E5%92%8C/</loc>
