@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yjpeng11.github.io/research/2026comm/</loc>
+    <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yjpeng11.github.io/research/</loc>
+    <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://yjpeng11.github.io/publication-type/2/</loc>
     <lastmod>2026-07-05T11:22:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -428,10 +436,6 @@
   </url><url>
     <loc>https://yjpeng11.github.io/author/songchun-zhu/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yjpeng11.github.io/research/</loc>
-    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yjpeng11.github.io/research/2024tong/</loc>

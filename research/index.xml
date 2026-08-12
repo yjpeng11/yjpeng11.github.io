@@ -5,12 +5,20 @@
     <link>https://yjpeng11.github.io/research/</link>
       <atom:link href="https://yjpeng11.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Research projects</title>
       <link>https://yjpeng11.github.io/research/</link>
     </image>
+    
+    <item>
+      <title>Embodied AI and Affective Computing for Doctor-Patient Communication</title>
+      <link>https://yjpeng11.github.io/research/2026comm/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/research/2026comm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Tong Test:Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interaction</title>
