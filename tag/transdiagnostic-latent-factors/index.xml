@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transdiagnostic Latent Factors | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/transdiagnostic-latent-factors/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/transdiagnostic-latent-factors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transdiagnostic Latent Factors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Transdiagnostic Latent Factors</title>
+      <link>https://yjpeng11.github.io/tag/transdiagnostic-latent-factors/</link>
+    </image>
+    
+    <item>
+      <title>Transdiagnostic latent factors dissociating depression and anxiety through reinforcement learning</title>
+      <link>https://yjpeng11.github.io/publication/2026_huang_bmcpsychiatry/</link>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2026_huang_bmcpsychiatry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Perception | Yujia Peng PKU</title>
+    <link>https://yjpeng11.github.io/tag/visual-perception/</link>
+      <atom:link href="https://yjpeng11.github.io/tag/visual-perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Perception</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yjpeng11.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Visual Perception</title>
+      <link>https://yjpeng11.github.io/tag/visual-perception/</link>
+    </image>
+    
+    <item>
+      <title>Squeeze-and-Excitation Algorithm for Efficient Face Recognition</title>
+      <link>https://yjpeng11.github.io/publication/2026_bao_actapsychologicasinica/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://yjpeng11.github.io/publication/2026_bao_actapsychologicasinica/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
